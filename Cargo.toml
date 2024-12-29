@@ -1,0 +1,14 @@
+[package]
+name = "sort_algorithm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bucket_sort = { path = "src/bucket_sort" }
+radix_sort = { path = "src/radix_sort" }
+
+[workspace]
+members = [
+    "src/bucket_sort",
+    "src/radix_sort",
+]
