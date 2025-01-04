@@ -1,9 +1,8 @@
 use bucket_sort::BucketSort;
-use criterion::BenchmarkId;
-use criterion::Criterion;
 use csv::ReaderBuilder;
 use radix_sort::RadixSort;
 use std::error::Error;
+use std::time::Instant;
 
 fn load_csv_column(file_path: &str, column_name: &str) -> Result<Vec<f64>, Box<dyn Error>> {
     let mut reader = ReaderBuilder::new()
@@ -33,9 +32,8 @@ fn load_csv_column(file_path: &str, column_name: &str) -> Result<Vec<f64>, Box<d
     Ok(column_data)
 }
 fn main() -> Result<(), Box<dyn Error>> {
-    let bucket_sort = BucketSort;
-    let radix_sort = RadixSort;
-    let c: &mut Criterion = &mut Default::default();
+    let mut bucket_sort = BucketSort::new();
+    let mut radix_sort = RadixSort::new();
 
     // Load Hotel Inventory Dataset
     let full_data: Vec<f64> =
@@ -51,33 +49,23 @@ fn main() -> Result<(), Box<dyn Error>> {
         let unordered_data: Vec<f64> = full_data[0..size].to_vec();
 
         // Benchmark Bucket Sort
-        c.bench_with_input(
-            BenchmarkId::new("Bucket Sort", size),
-            &unordered_data,
-            |b, data| {
-                b.iter(|| {
-                    let mut data_copy = data.clone();
-                    bucket_sort.sort(&mut data_copy);
-                });
-            },
-        );
+        let mut bucket_data = unordered_data.clone();
+        let start = Instant::now();
+        bucket_sort.sort(&mut bucket_data);
+        let duration = start.elapsed();
+        println!("Bucket Sort: {:?}", duration);
 
         // Benchmark Radix Sort
-        c.bench_with_input(
-            BenchmarkId::new("Radix Sort", size),
-            &unordered_data,
-            |b, data| {
-                b.iter(|| {
-                    let mut data_copy = data.clone();
-                    radix_sort.sort(&mut data_copy);
-                });
-            },
-        );
+        let mut radix_data = unordered_data.clone();
+        let start = Instant::now();
+        radix_sort.sort(&mut radix_data);
+        let duration = start.elapsed();
+        println!("Radix Sort: {:?}", duration);
     }
 
     // Nearly ordered sort benchmark
     for &size in &sizes {
-        println!("Nearly ordered sort benchmark for size: {}", size);
+        println!("\nNearly ordered sort benchmark for size: {}", size);
         // Get subset of data for current size
         let mut partial_sorted: Vec<f64> = full_data[0..size].to_vec();
         partial_sorted.sort_by(|a, b| a.partial_cmp(b).unwrap());
@@ -89,28 +77,18 @@ fn main() -> Result<(), Box<dyn Error>> {
         }
 
         // Benchmark Bucket Sort
-        c.bench_with_input(
-            BenchmarkId::new("Bucket Sort", size),
-            &partial_sorted,
-            |b, data| {
-                b.iter(|| {
-                    let mut data_copy = data.clone();
-                    bucket_sort.sort(&mut data_copy);
-                });
-            },
-        );
+        let mut bucket_data = partial_sorted.clone();
+        let start = Instant::now();
+        bucket_sort.sort(&mut bucket_data);
+        let duration = start.elapsed();
+        println!("Bucket Sort: {:?}", duration);
 
         // Benchmark Radix Sort
-        c.bench_with_input(
-            BenchmarkId::new("Radix Sort", size),
-            &partial_sorted,
-            |b, data| {
-                b.iter(|| {
-                    let mut data_copy = data.clone();
-                    radix_sort.sort(&mut data_copy);
-                });
-            },
-        );
+        let mut radix_data = partial_sorted.clone();
+        let start = Instant::now();
+        radix_sort.sort(&mut radix_data);
+        let duration = start.elapsed();
+        println!("Radix Sort: {:?}", duration);
     }
 
     Ok(())

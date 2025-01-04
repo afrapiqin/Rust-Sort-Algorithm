@@ -1,4 +1,7 @@
-pub struct BucketSort;
+pub struct BucketSort {
+    comparisons: usize,
+    moves: usize,
+}
 
 pub trait BucketSortable {
     fn to_bucket_index(&self, bucket_count: usize, max_value: &Self) -> usize;
@@ -60,11 +63,43 @@ impl<'a> BucketSortable for &'a str {
 }
 
 impl BucketSort {
-    pub fn sort<T>(&self, data: &mut [T])
+    pub fn new() -> Self {
+        BucketSort {
+            comparisons: 0,
+            moves: 0,
+        }
+    }
+
+    pub fn get_stats(&self) -> (usize, usize) {
+        (self.comparisons, self.moves)
+    }
+
+    pub fn sort<T>(&mut self, data: &mut [T])
     where
         T: Copy + PartialOrd + BucketSortable,
     {
         if data.is_empty() {
+            return;
+        }
+
+        self.comparisons = 0;
+        self.moves = 0;
+
+        // Check if already sorted
+        let mut is_sorted = true;
+        for i in 1..data.len() {
+            self.comparisons += 1;
+            if data[i] < data[i - 1] {
+                is_sorted = false;
+                break;
+            }
+        }
+
+        if is_sorted {
+            println!(
+                "Array already sorted - Comparisons: {}, Moves: 0",
+                self.comparisons
+            );
             return;
         }
 
@@ -75,22 +110,38 @@ impl BucketSort {
         let bucket_count = max_value.get_bucket_count();
         let mut buckets: Vec<Vec<T>> = vec![Vec::new(); bucket_count];
 
-        for &value in data.iter() {
-            let bucket_index = value.to_bucket_index(bucket_count, &max_value);
-            buckets[bucket_index].push(value);
+        // Distribution
+        for &item in data.iter() {
+            let index = item.to_bucket_index(bucket_count, &max_value);
+            buckets[index].push(item);
         }
 
+        // Sort buckets and count comparisons
         for bucket in buckets.iter_mut() {
-            bucket.sort_by(|a, b| a.partial_cmp(b).unwrap());
-        }
-
-        let mut index = 0;
-        for bucket in buckets {
-            for &value in bucket.iter() {
-                data[index] = value;
-                index += 1;
+            if bucket.len() > 1 {
+                bucket.sort_by(|a, b| {
+                    self.comparisons += 1;
+                    a.partial_cmp(b).unwrap()
+                });
             }
         }
+
+        // Collect and count moves
+        let mut i = 0;
+        for bucket in buckets {
+            for &item in bucket.iter() {
+                if i < data.len() && data[i] != item {
+                    self.moves += 1;
+                    data[i] = item;
+                }
+                i += 1;
+            }
+        }
+
+        println!(
+            "Bucket Sort Stats - Comparisons: {}, Moves: {}",
+            self.comparisons, self.moves
+        );
     }
 }
 
@@ -101,15 +152,18 @@ mod tests {
     #[test]
     fn test_integer_sort() {
         let mut arr = vec![64, 34, 25, 12, 22, 11, 90];
-        let sorter = BucketSort;
+        let mut sorter = BucketSort::new();
         sorter.sort(&mut arr);
         assert_eq!(arr, vec![11, 12, 22, 25, 34, 64, 90]);
+        let (comparisons, moves) = sorter.get_stats();
+        assert!(comparisons > 0);
+        assert!(moves > 0);
     }
 
     #[test]
     fn test_float_sort() {
         let mut arr = vec![64.5, 34.0, 25.5, 12.2, 22.7, 11.1, 90.0];
-        let sorter = BucketSort;
+        let mut sorter = BucketSort::new();
         sorter.sort(&mut arr);
         assert_eq!(arr, vec![11.1, 12.2, 22.7, 25.5, 34.0, 64.5, 90.0]);
     }
@@ -117,7 +171,7 @@ mod tests {
     #[test]
     fn test_str_char_sort() {
         let mut arr = vec!["dog", "cat", "bird", "ant"];
-        let sorter = BucketSort;
+        let mut sorter = BucketSort::new();
         sorter.sort(&mut arr);
         assert_eq!(arr, vec!["ant", "bird", "cat", "dog"]);
     }
@@ -125,7 +179,7 @@ mod tests {
     #[test]
     fn test_str_floats_sort() {
         let mut arr = vec!["170.7", "45.7", "7.5", "9.0", "80.2", "2.4", "2.7", "6.6"];
-        let sorter = BucketSort;
+        let mut sorter = BucketSort::new();
         sorter.sort(&mut arr);
         assert_eq!(
             arr,
@@ -136,7 +190,7 @@ mod tests {
     #[test]
     fn test_str_integers_sort() {
         let mut arr = vec!["170", "45", "7", "9", "80", "2", "2", "6"];
-        let sorter = BucketSort;
+        let mut sorter = BucketSort::new();
         sorter.sort(&mut arr);
         assert_eq!(arr, vec!["2", "2", "6", "7", "9", "45", "80", "170"]);
     }
