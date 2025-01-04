@@ -1,11 +1,11 @@
 pub struct BucketSort;
 
-pub trait Sortable {
+pub trait BucketSortable {
     fn to_bucket_index(&self, bucket_count: usize, max_value: &Self) -> usize;
     fn get_bucket_count(&self) -> usize;
 }
 
-impl Sortable for f64 {
+impl BucketSortable for f64 {
     fn to_bucket_index(&self, bucket_count: usize, max_value: &Self) -> usize {
         ((self / max_value) * (bucket_count - 1) as f64).floor() as usize
     }
@@ -15,7 +15,7 @@ impl Sortable for f64 {
     }
 }
 
-impl Sortable for i32 {
+impl BucketSortable for i32 {
     fn to_bucket_index(&self, bucket_count: usize, max_value: &Self) -> usize {
         ((*self as f64 / *max_value as f64) * (bucket_count - 1) as f64).floor() as usize
     }
@@ -25,7 +25,7 @@ impl Sortable for i32 {
     }
 }
 
-impl<'a> Sortable for &'a str {
+impl<'a> BucketSortable for &'a str {
     fn to_bucket_index(&self, bucket_count: usize, _: &Self) -> usize {
         // Special handling for numeric strings
         if self.chars().next().map_or(false, |c| c.is_digit(10)) {
@@ -62,7 +62,7 @@ impl<'a> Sortable for &'a str {
 impl BucketSort {
     pub fn sort<T>(&self, data: &mut [T])
     where
-        T: Copy + PartialOrd + Sortable,
+        T: Copy + PartialOrd + BucketSortable,
     {
         if data.is_empty() {
             return;

@@ -37,21 +37,23 @@ fn main() -> Result<(), Box<dyn Error>> {
     let radix_sort = RadixSort;
     let c: &mut Criterion = &mut Default::default();
 
-    // Generate 1000 random numbers
+    // Load Hotel Inventory Dataset
     let full_data: Vec<f64> =
         load_csv_column("Hotel_Item_Inventory_Dataset.csv", "Purchase_Price").unwrap();
 
     // Test sizes
     let sizes = [100, 500, 1000];
 
+    // Unordered sort benchmark
     for &size in &sizes {
+        println!("Unordered sort benchmark for size: {}", size);
         // Get subset of data for current size
-        let test_data: Vec<f64> = full_data[0..size].to_vec();
+        let unordered_data: Vec<f64> = full_data[0..size].to_vec();
 
         // Benchmark Bucket Sort
         c.bench_with_input(
             BenchmarkId::new("Bucket Sort", size),
-            &test_data,
+            &unordered_data,
             |b, data| {
                 b.iter(|| {
                     let mut data_copy = data.clone();
@@ -63,7 +65,7 @@ fn main() -> Result<(), Box<dyn Error>> {
         // Benchmark Radix Sort
         c.bench_with_input(
             BenchmarkId::new("Radix Sort", size),
-            &test_data,
+            &unordered_data,
             |b, data| {
                 b.iter(|| {
                     let mut data_copy = data.clone();
@@ -72,5 +74,44 @@ fn main() -> Result<(), Box<dyn Error>> {
             },
         );
     }
+
+    // Nearly ordered sort benchmark
+    for &size in &sizes {
+        println!("Nearly ordered sort benchmark for size: {}", size);
+        // Get subset of data for current size
+        let mut partial_sorted: Vec<f64> = full_data[0..size].to_vec();
+        partial_sorted.sort_by(|a, b| a.partial_cmp(b).unwrap());
+        // Swap some elements to make it nearly sorted
+        for i in (0..size).step_by(5) {
+            if i + 1 < size {
+                partial_sorted.swap(i, i + 1);
+            }
+        }
+
+        // Benchmark Bucket Sort
+        c.bench_with_input(
+            BenchmarkId::new("Bucket Sort", size),
+            &partial_sorted,
+            |b, data| {
+                b.iter(|| {
+                    let mut data_copy = data.clone();
+                    bucket_sort.sort(&mut data_copy);
+                });
+            },
+        );
+
+        // Benchmark Radix Sort
+        c.bench_with_input(
+            BenchmarkId::new("Radix Sort", size),
+            &partial_sorted,
+            |b, data| {
+                b.iter(|| {
+                    let mut data_copy = data.clone();
+                    radix_sort.sort(&mut data_copy);
+                });
+            },
+        );
+    }
+
     Ok(())
 }
