@@ -6,9 +6,13 @@ edition = "2021"
 [dependencies]
 bucket_sort = { path = "src/bucket_sort" }
 radix_sort = { path = "src/radix_sort" }
+criterion = "0.3"
+rand = "0.8"
 
 [workspace]
 members = [
     "src/bucket_sort",
     "src/radix_sort",
 ]
+
+harness = false # Important for Criterion
