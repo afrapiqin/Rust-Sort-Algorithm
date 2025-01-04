@@ -1,0 +1,1001 @@
+Item_ID,Item_Name,Category,Quantity_Available,Purchase_Price,Supplier,Date_Added
+ITM0001,Pillow,Linens,269,58.84,Supplier_B,2023-09-24
+ITM0002,Desk,Electronics,457,44.4,Supplier_C,2023-01-09
+ITM0003,Desk,Furniture,377,109.85,Supplier_C,2021-07-21
+ITM0004,Bed Sheet,Linens,91,177.95,Supplier_D,2023-12-04
+ITM0005,Desk,Furniture,221,147.76,Supplier_D,2022-06-08
+ITM0006,Toiletries,Linens,304,148.96,Supplier_B,2022-09-05
+ITM0007,Curtains,Furniture,408,185.05,Supplier_B,2020-02-04
+ITM0008,Curtains,Toiletries,291,16.86,Supplier_C,2022-10-19
+ITM0009,Chair,Electronics,67,145.11,Supplier_E,2023-11-07
+ITM0010,Television,Linens,245,42.69,Supplier_C,2021-08-07
+ITM0011,Towel,Linens,268,39.84,Supplier_B,2021-04-14
+ITM0012,Television,Toiletries,321,198.46,Supplier_D,2021-03-21
+ITM0013,Television,Linens,455,115.13,Supplier_D,2020-10-05
+ITM0014,Pillow,Toiletries,277,110.08,Supplier_C,2023-07-09
+ITM0015,Toiletries,Electronics,291,83.55,Supplier_C,2021-03-18
+ITM0016,Toiletries,Toiletries,207,171.29,Supplier_A,2021-03-19
+ITM0017,Toiletries,Electronics,117,82.53,Supplier_E,2021-11-06
+ITM0018,Towel,Linens,411,34.8,Supplier_A,2023-01-09
+ITM0019,Bed Sheet,Toiletries,451,172.06,Supplier_C,2020-09-02
+ITM0020,Pillow,Electronics,175,108.84,Supplier_D,2020-12-01
+ITM0021,Mini Fridge,Furniture,210,91.51,Supplier_A,2023-04-21
+ITM0022,Pillow,Linens,302,96.9,Supplier_C,2023-05-20
+ITM0023,Chair,Electronics,319,107.15,Supplier_E,2022-06-07
+ITM0024,Chair,Electronics,92,170.13,Supplier_B,2022-05-11
+ITM0025,Curtains,Electronics,192,117.05,Supplier_E,2022-09-10
+ITM0026,Curtains,Electronics,384,78.15,Supplier_C,2021-07-04
+ITM0027,Mini Fridge,Furniture,221,44.03,Supplier_C,2023-12-16
+ITM0028,Television,Toiletries,414,178.93,Supplier_E,2020-04-28
+ITM0029,Lamp,Electronics,85,15.71,Supplier_A,2021-09-21
+ITM0030,Lamp,Furniture,288,97.88,Supplier_A,2022-08-01
+ITM0031,Mini Fridge,Linens,39,38.92,Supplier_C,2023-09-20
+ITM0032,Mini Fridge,Toiletries,34,125.12,Supplier_A,2020-04-08
+ITM0033,Towel,Linens,210,137.19,Supplier_B,2022-09-10
+ITM0034,Television,Electronics,204,129.64,Supplier_A,2021-10-06
+ITM0035,Curtains,Toiletries,349,196.77,Supplier_B,2022-07-22
+ITM0036,Chair,Electronics,396,14.31,Supplier_B,2022-02-03
+ITM0037,Pillow,Linens,490,20.69,Supplier_A,2022-06-02
+ITM0038,Toiletries,Electronics,192,111.04,Supplier_E,2022-06-24
+ITM0039,Mini Fridge,Linens,35,149.93,Supplier_B,2023-09-13
+ITM0040,Toiletries,Toiletries,439,150.47,Supplier_B,2023-06-20
+ITM0041,Chair,Linens,315,73.23,Supplier_C,2020-07-05
+ITM0042,Television,Toiletries,238,187.93,Supplier_B,2022-09-20
+ITM0043,Chair,Electronics,301,129.34,Supplier_D,2022-02-15
+ITM0044,Bed Sheet,Linens,246,68.55,Supplier_E,2023-11-18
+ITM0045,Chair,Electronics,301,83.8,Supplier_E,2023-09-27
+ITM0046,Toiletries,Electronics,325,184.06,Supplier_B,2021-04-18
+ITM0047,Lamp,Toiletries,348,24.61,Supplier_B,2023-05-26
+ITM0048,Toiletries,Electronics,421,31.46,Supplier_B,2021-11-09
+ITM0049,Curtains,Furniture,276,83.38,Supplier_C,2020-10-25
+ITM0050,Chair,Linens,246,87.96,Supplier_C,2023-03-26
+ITM0051,Desk,Toiletries,234,166.51,Supplier_D,2023-09-25
+ITM0052,Towel,Toiletries,383,179.89,Supplier_A,2022-02-04
+ITM0053,Toiletries,Toiletries,185,36.68,Supplier_E,2023-12-14
+ITM0054,Chair,Toiletries,473,199.36,Supplier_E,2020-07-19
+ITM0055,Bed Sheet,Electronics,468,36.74,Supplier_D,2023-05-19
+ITM0056,Mini Fridge,Linens,102,36.74,Supplier_E,2022-11-16
+ITM0057,Lamp,Furniture,36,107.77,Supplier_E,2021-12-21
+ITM0058,Television,Toiletries,141,109.17,Supplier_D,2021-12-19
+ITM0059,Pillow,Linens,319,81.13,Supplier_B,2023-05-15
+ITM0060,Lamp,Furniture,496,14.81,Supplier_C,2022-11-16
+ITM0061,Mini Fridge,Toiletries,41,176.36,Supplier_A,2023-07-24
+ITM0062,Lamp,Toiletries,85,111.34,Supplier_E,2023-08-02
+ITM0063,Chair,Toiletries,203,88.15,Supplier_E,2021-03-27
+ITM0064,Bed Sheet,Toiletries,99,50.0,Supplier_D,2020-01-21
+ITM0065,Curtains,Toiletries,447,82.59,Supplier_B,2021-10-28
+ITM0066,Pillow,Furniture,165,69.75,Supplier_D,2021-10-23
+ITM0067,Bed Sheet,Electronics,299,47.3,Supplier_E,2022-10-01
+ITM0068,Television,Toiletries,28,191.18,Supplier_C,2021-07-06
+ITM0069,Curtains,Electronics,303,89.83,Supplier_A,2022-10-13
+ITM0070,Toiletries,Linens,279,126.42,Supplier_A,2021-07-24
+ITM0071,Lamp,Toiletries,452,93.49,Supplier_D,2020-09-04
+ITM0072,Towel,Electronics,43,90.84,Supplier_B,2021-07-12
+ITM0073,Bed Sheet,Electronics,346,61.96,Supplier_E,2022-07-28
+ITM0074,Desk,Electronics,458,15.59,Supplier_D,2021-04-13
+ITM0075,Mini Fridge,Linens,79,103.81,Supplier_C,2021-10-20
+ITM0076,Pillow,Toiletries,78,141.89,Supplier_C,2020-07-14
+ITM0077,Lamp,Electronics,110,176.65,Supplier_A,2023-01-15
+ITM0078,Bed Sheet,Linens,360,191.46,Supplier_A,2021-05-03
+ITM0079,Pillow,Linens,173,63.47,Supplier_B,2023-02-07
+ITM0080,Mini Fridge,Electronics,98,106.79,Supplier_D,2023-06-16
+ITM0081,Toiletries,Linens,237,133.16,Supplier_C,2022-07-15
+ITM0082,Pillow,Furniture,152,161.12,Supplier_D,2020-09-11
+ITM0083,Towel,Linens,80,31.28,Supplier_A,2020-08-09
+ITM0084,Toiletries,Furniture,337,192.19,Supplier_D,2022-03-28
+ITM0085,Pillow,Electronics,287,120.54,Supplier_D,2020-06-23
+ITM0086,Toiletries,Electronics,68,110.49,Supplier_C,2023-11-06
+ITM0087,Television,Toiletries,421,23.5,Supplier_B,2022-10-15
+ITM0088,Lamp,Toiletries,235,140.74,Supplier_B,2021-12-18
+ITM0089,Bed Sheet,Toiletries,294,113.62,Supplier_E,2022-08-21
+ITM0090,Pillow,Toiletries,493,138.72,Supplier_C,2021-02-15
+ITM0091,Toiletries,Linens,412,150.83,Supplier_B,2022-04-27
+ITM0092,Television,Toiletries,396,23.43,Supplier_B,2021-12-26
+ITM0093,Television,Linens,210,127.77,Supplier_C,2020-02-19
+ITM0094,Mini Fridge,Electronics,88,34.37,Supplier_B,2020-01-23
+ITM0095,Pillow,Toiletries,110,115.96,Supplier_E,2023-03-18
+ITM0096,Desk,Electronics,356,159.19,Supplier_D,2021-05-28
+ITM0097,Towel,Electronics,458,192.92,Supplier_B,2020-02-10
+ITM0098,Toiletries,Toiletries,64,68.96,Supplier_A,2021-04-25
+ITM0099,Chair,Furniture,85,144.14,Supplier_D,2023-09-06
+ITM0100,Chair,Toiletries,438,189.38,Supplier_A,2021-10-24
+ITM0101,Pillow,Toiletries,259,38.81,Supplier_B,2022-10-14
+ITM0102,Bed Sheet,Linens,87,166.09,Supplier_A,2023-02-08
+ITM0103,Toiletries,Furniture,455,169.95,Supplier_A,2022-10-11
+ITM0104,Curtains,Linens,342,30.73,Supplier_E,2023-06-24
+ITM0105,Curtains,Linens,196,132.53,Supplier_A,2022-02-08
+ITM0106,Curtains,Electronics,233,174.6,Supplier_C,2023-12-19
+ITM0107,Television,Furniture,41,173.92,Supplier_D,2022-01-06
+ITM0108,Mini Fridge,Linens,366,94.81,Supplier_D,2020-07-27
+ITM0109,Television,Electronics,331,159.66,Supplier_C,2023-04-09
+ITM0110,Chair,Electronics,87,91.81,Supplier_C,2023-05-28
+ITM0111,Toiletries,Furniture,79,177.55,Supplier_C,2023-08-05
+ITM0112,Bed Sheet,Linens,423,125.32,Supplier_A,2021-10-26
+ITM0113,Television,Linens,63,41.06,Supplier_D,2022-02-10
+ITM0114,Lamp,Linens,24,150.23,Supplier_E,2020-10-17
+ITM0115,Television,Furniture,155,140.09,Supplier_D,2020-03-08
+ITM0116,Desk,Furniture,275,6.57,Supplier_D,2021-02-01
+ITM0117,Bed Sheet,Toiletries,318,111.77,Supplier_C,2023-04-12
+ITM0118,Pillow,Toiletries,215,12.53,Supplier_A,2021-10-21
+ITM0119,Towel,Furniture,71,67.54,Supplier_A,2020-03-18
+ITM0120,Desk,Linens,292,166.46,Supplier_C,2020-01-02
+ITM0121,Towel,Electronics,386,76.99,Supplier_D,2022-06-14
+ITM0122,Desk,Linens,42,62.93,Supplier_E,2023-02-21
+ITM0123,Chair,Furniture,439,164.75,Supplier_A,2023-01-20
+ITM0124,Towel,Toiletries,159,153.03,Supplier_D,2020-02-05
+ITM0125,Curtains,Linens,296,195.22,Supplier_D,2023-11-12
+ITM0126,Chair,Electronics,317,26.51,Supplier_A,2020-03-16
+ITM0127,Toiletries,Furniture,149,93.59,Supplier_E,2020-05-13
+ITM0128,Towel,Electronics,199,65.19,Supplier_A,2022-11-07
+ITM0129,Bed Sheet,Electronics,476,138.45,Supplier_C,2021-12-08
+ITM0130,Pillow,Furniture,256,130.67,Supplier_C,2020-03-13
+ITM0131,Desk,Electronics,87,94.79,Supplier_A,2020-10-10
+ITM0132,Pillow,Linens,65,111.36,Supplier_B,2022-08-24
+ITM0133,Toiletries,Toiletries,276,55.53,Supplier_D,2020-10-01
+ITM0134,Television,Electronics,26,145.97,Supplier_B,2021-08-08
+ITM0135,Mini Fridge,Toiletries,139,42.43,Supplier_D,2022-09-18
+ITM0136,Lamp,Electronics,224,43.81,Supplier_A,2021-08-24
+ITM0137,Chair,Electronics,458,45.95,Supplier_E,2022-05-15
+ITM0138,Chair,Furniture,157,13.74,Supplier_D,2022-05-22
+ITM0139,Chair,Furniture,464,124.67,Supplier_A,2020-09-01
+ITM0140,Television,Toiletries,58,47.92,Supplier_E,2023-08-16
+ITM0141,Bed Sheet,Toiletries,471,61.91,Supplier_C,2022-08-04
+ITM0142,Towel,Linens,352,126.98,Supplier_E,2023-08-02
+ITM0143,Lamp,Furniture,133,96.96,Supplier_B,2020-04-19
+ITM0144,Television,Furniture,139,162.58,Supplier_E,2020-08-08
+ITM0145,Pillow,Furniture,457,106.37,Supplier_D,2020-11-12
+ITM0146,Television,Linens,127,91.84,Supplier_D,2023-12-12
+ITM0147,Curtains,Electronics,234,193.57,Supplier_C,2021-06-20
+ITM0148,Bed Sheet,Linens,181,109.88,Supplier_A,2021-01-08
+ITM0149,Curtains,Furniture,342,116.94,Supplier_B,2021-02-07
+ITM0150,Bed Sheet,Linens,252,136.23,Supplier_B,2022-02-18
+ITM0151,Desk,Electronics,405,47.33,Supplier_E,2022-05-19
+ITM0152,Lamp,Electronics,495,192.95,Supplier_A,2021-02-07
+ITM0153,Towel,Furniture,196,167.6,Supplier_B,2022-07-17
+ITM0154,Pillow,Furniture,457,184.58,Supplier_D,2020-11-26
+ITM0155,Toiletries,Linens,155,24.06,Supplier_E,2021-08-18
+ITM0156,Desk,Toiletries,319,188.23,Supplier_E,2020-12-20
+ITM0157,Bed Sheet,Electronics,333,124.65,Supplier_D,2021-08-23
+ITM0158,Television,Furniture,217,127.19,Supplier_D,2023-09-11
+ITM0159,Chair,Linens,66,34.05,Supplier_A,2022-02-12
+ITM0160,Lamp,Toiletries,440,75.76,Supplier_C,2022-11-04
+ITM0161,Desk,Electronics,107,144.86,Supplier_C,2023-07-26
+ITM0162,Towel,Linens,167,159.85,Supplier_D,2023-09-15
+ITM0163,Bed Sheet,Furniture,433,198.21,Supplier_D,2020-08-21
+ITM0164,Chair,Linens,491,15.53,Supplier_D,2023-07-07
+ITM0165,Television,Toiletries,87,34.9,Supplier_B,2023-09-03
+ITM0166,Toiletries,Linens,372,176.08,Supplier_E,2020-01-01
+ITM0167,Chair,Furniture,122,111.84,Supplier_D,2022-10-02
+ITM0168,Television,Electronics,500,192.85,Supplier_B,2021-08-16
+ITM0169,Pillow,Toiletries,169,179.62,Supplier_B,2022-02-20
+ITM0170,Chair,Toiletries,486,90.09,Supplier_C,2023-01-11
+ITM0171,Toiletries,Electronics,95,87.91,Supplier_D,2023-03-03
+ITM0172,Mini Fridge,Electronics,217,22.98,Supplier_A,2023-01-15
+ITM0173,Curtains,Linens,47,43.02,Supplier_B,2022-04-19
+ITM0174,Toiletries,Linens,272,86.29,Supplier_B,2022-02-25
+ITM0175,Lamp,Linens,347,139.14,Supplier_D,2023-10-05
+ITM0176,Bed Sheet,Toiletries,95,60.98,Supplier_C,2020-05-07
+ITM0177,Towel,Furniture,376,149.37,Supplier_D,2021-02-07
+ITM0178,Desk,Electronics,125,124.92,Supplier_B,2020-12-08
+ITM0179,Television,Electronics,308,56.78,Supplier_C,2021-02-24
+ITM0180,Toiletries,Furniture,363,129.5,Supplier_D,2023-10-04
+ITM0181,Pillow,Furniture,457,199.18,Supplier_B,2022-11-01
+ITM0182,Lamp,Furniture,394,71.57,Supplier_B,2021-05-23
+ITM0183,Pillow,Toiletries,423,171.0,Supplier_D,2020-07-16
+ITM0184,Curtains,Furniture,480,197.18,Supplier_E,2022-06-09
+ITM0185,Toiletries,Toiletries,106,134.81,Supplier_C,2020-05-21
+ITM0186,Mini Fridge,Toiletries,206,84.84,Supplier_A,2020-04-13
+ITM0187,Toiletries,Toiletries,352,148.69,Supplier_E,2021-03-01
+ITM0188,Desk,Linens,117,158.36,Supplier_D,2020-08-11
+ITM0189,Pillow,Furniture,497,94.94,Supplier_C,2023-02-09
+ITM0190,Television,Electronics,35,114.77,Supplier_B,2022-09-12
+ITM0191,Desk,Electronics,47,72.26,Supplier_A,2021-11-22
+ITM0192,Toiletries,Toiletries,477,58.72,Supplier_C,2022-12-17
+ITM0193,Desk,Furniture,372,93.64,Supplier_D,2022-02-26
+ITM0194,Desk,Linens,411,181.32,Supplier_C,2021-03-03
+ITM0195,Chair,Linens,473,196.6,Supplier_A,2020-07-03
+ITM0196,Desk,Furniture,449,155.6,Supplier_E,2021-09-15
+ITM0197,Lamp,Furniture,81,48.98,Supplier_E,2020-12-01
+ITM0198,Pillow,Furniture,53,136.4,Supplier_D,2021-05-09
+ITM0199,Lamp,Furniture,244,113.87,Supplier_B,2022-06-25
+ITM0200,Television,Furniture,152,157.21,Supplier_A,2020-04-25
+ITM0201,Mini Fridge,Furniture,305,18.54,Supplier_E,2021-04-16
+ITM0202,Desk,Furniture,309,34.84,Supplier_E,2023-06-08
+ITM0203,Television,Linens,165,7.93,Supplier_A,2023-06-27
+ITM0204,Curtains,Toiletries,361,58.57,Supplier_E,2021-08-17
+ITM0205,Bed Sheet,Furniture,457,32.38,Supplier_B,2023-05-22
+ITM0206,Towel,Electronics,374,32.28,Supplier_D,2022-01-25
+ITM0207,Towel,Linens,90,125.51,Supplier_E,2023-03-10
+ITM0208,Pillow,Electronics,20,61.36,Supplier_A,2020-09-25
+ITM0209,Desk,Electronics,119,174.45,Supplier_A,2020-07-07
+ITM0210,Bed Sheet,Electronics,451,186.97,Supplier_D,2022-10-26
+ITM0211,Curtains,Electronics,385,113.91,Supplier_E,2022-08-22
+ITM0212,Curtains,Furniture,438,194.82,Supplier_C,2022-07-10
+ITM0213,Desk,Linens,279,106.01,Supplier_B,2022-03-27
+ITM0214,Television,Linens,175,86.79,Supplier_E,2022-10-12
+ITM0215,Chair,Toiletries,216,158.05,Supplier_C,2022-03-21
+ITM0216,Pillow,Toiletries,487,158.03,Supplier_B,2022-03-21
+ITM0217,Toiletries,Toiletries,237,59.83,Supplier_D,2021-10-12
+ITM0218,Toiletries,Toiletries,240,143.11,Supplier_B,2020-03-22
+ITM0219,Toiletries,Furniture,241,160.82,Supplier_B,2020-09-28
+ITM0220,Mini Fridge,Electronics,313,59.51,Supplier_D,2023-05-10
+ITM0221,Bed Sheet,Furniture,204,118.29,Supplier_E,2021-05-21
+ITM0222,Toiletries,Toiletries,310,11.14,Supplier_B,2023-09-01
+ITM0223,Toiletries,Electronics,380,153.53,Supplier_E,2023-04-28
+ITM0224,Television,Toiletries,58,24.57,Supplier_A,2020-04-02
+ITM0225,Mini Fridge,Electronics,134,171.11,Supplier_B,2021-01-13
+ITM0226,Bed Sheet,Toiletries,260,44.35,Supplier_C,2021-04-05
+ITM0227,Towel,Linens,53,154.74,Supplier_E,2022-06-11
+ITM0228,Desk,Furniture,402,162.47,Supplier_E,2022-09-19
+ITM0229,Bed Sheet,Toiletries,214,165.62,Supplier_C,2023-05-12
+ITM0230,Lamp,Furniture,331,35.23,Supplier_B,2022-12-18
+ITM0231,Chair,Linens,369,30.25,Supplier_A,2021-10-03
+ITM0232,Towel,Furniture,480,82.41,Supplier_D,2021-03-15
+ITM0233,Lamp,Electronics,253,87.29,Supplier_E,2023-05-17
+ITM0234,Desk,Toiletries,29,177.77,Supplier_B,2021-01-22
+ITM0235,Desk,Linens,34,119.87,Supplier_A,2021-09-28
+ITM0236,Desk,Toiletries,417,60.76,Supplier_B,2022-10-11
+ITM0237,Television,Linens,463,186.41,Supplier_E,2021-10-23
+ITM0238,Toiletries,Linens,249,88.31,Supplier_E,2022-07-28
+ITM0239,Bed Sheet,Linens,190,170.52,Supplier_B,2021-03-11
+ITM0240,Bed Sheet,Linens,64,130.89,Supplier_B,2021-05-19
+ITM0241,Chair,Electronics,420,118.17,Supplier_D,2020-05-04
+ITM0242,Desk,Toiletries,135,87.95,Supplier_E,2022-08-08
+ITM0243,Pillow,Furniture,275,68.73,Supplier_A,2020-12-28
+ITM0244,Lamp,Toiletries,105,64.2,Supplier_A,2021-04-11
+ITM0245,Television,Electronics,183,147.96,Supplier_B,2020-09-01
+ITM0246,Curtains,Furniture,436,182.34,Supplier_B,2023-05-19
+ITM0247,Toiletries,Furniture,263,170.1,Supplier_A,2020-04-27
+ITM0248,Toiletries,Toiletries,486,166.05,Supplier_D,2021-09-28
+ITM0249,Desk,Electronics,491,135.93,Supplier_E,2020-01-25
+ITM0250,Curtains,Electronics,252,16.67,Supplier_B,2022-02-19
+ITM0251,Television,Toiletries,95,121.32,Supplier_C,2020-03-18
+ITM0252,Toiletries,Electronics,296,189.04,Supplier_C,2023-03-22
+ITM0253,Television,Furniture,169,61.57,Supplier_A,2021-08-16
+ITM0254,Desk,Linens,45,88.47,Supplier_C,2022-11-01
+ITM0255,Lamp,Toiletries,54,30.09,Supplier_D,2020-03-15
+ITM0256,Curtains,Linens,166,150.15,Supplier_A,2023-06-21
+ITM0257,Chair,Furniture,18,55.35,Supplier_B,2023-10-20
+ITM0258,Bed Sheet,Toiletries,106,37.03,Supplier_E,2021-11-22
+ITM0259,Mini Fridge,Toiletries,210,78.63,Supplier_C,2020-04-22
+ITM0260,Toiletries,Furniture,474,114.92,Supplier_E,2021-11-11
+ITM0261,Mini Fridge,Furniture,429,120.19,Supplier_C,2020-04-02
+ITM0262,Pillow,Furniture,409,171.4,Supplier_D,2020-06-26
+ITM0263,Bed Sheet,Toiletries,398,104.29,Supplier_D,2020-06-11
+ITM0264,Curtains,Electronics,111,154.68,Supplier_D,2020-04-01
+ITM0265,Television,Linens,91,125.7,Supplier_B,2021-02-01
+ITM0266,Mini Fridge,Toiletries,304,11.95,Supplier_A,2020-01-20
+ITM0267,Desk,Linens,27,74.53,Supplier_D,2020-04-18
+ITM0268,Toiletries,Linens,304,42.96,Supplier_B,2023-01-15
+ITM0269,Desk,Linens,151,73.84,Supplier_B,2020-02-02
+ITM0270,Mini Fridge,Electronics,312,119.84,Supplier_D,2020-12-22
+ITM0271,Curtains,Furniture,141,58.84,Supplier_E,2022-12-04
+ITM0272,Television,Toiletries,490,136.38,Supplier_C,2023-04-26
+ITM0273,Desk,Linens,319,173.06,Supplier_E,2021-03-23
+ITM0274,Toiletries,Linens,485,125.37,Supplier_A,2023-07-07
+ITM0275,Pillow,Furniture,226,126.45,Supplier_A,2020-02-26
+ITM0276,Bed Sheet,Electronics,237,36.7,Supplier_C,2022-07-11
+ITM0277,Towel,Linens,236,84.67,Supplier_E,2023-09-09
+ITM0278,Lamp,Toiletries,242,86.15,Supplier_D,2022-06-26
+ITM0279,Bed Sheet,Electronics,55,119.78,Supplier_D,2020-01-16
+ITM0280,Lamp,Electronics,371,182.96,Supplier_D,2023-08-28
+ITM0281,Pillow,Electronics,442,65.29,Supplier_A,2021-08-16
+ITM0282,Television,Electronics,267,72.44,Supplier_D,2023-11-03
+ITM0283,Lamp,Furniture,50,176.97,Supplier_D,2021-07-02
+ITM0284,Bed Sheet,Linens,405,15.96,Supplier_B,2023-07-18
+ITM0285,Toiletries,Electronics,128,121.5,Supplier_B,2023-12-02
+ITM0286,Towel,Toiletries,498,107.62,Supplier_E,2020-05-06
+ITM0287,Television,Furniture,414,23.89,Supplier_C,2020-10-20
+ITM0288,Curtains,Linens,292,105.15,Supplier_A,2023-03-14
+ITM0289,Desk,Furniture,202,159.33,Supplier_A,2022-10-28
+ITM0290,Towel,Furniture,302,62.97,Supplier_B,2021-09-25
+ITM0291,Lamp,Linens,365,60.97,Supplier_C,2022-05-28
+ITM0292,Towel,Furniture,105,137.63,Supplier_C,2023-02-24
+ITM0293,Mini Fridge,Electronics,307,165.38,Supplier_C,2021-03-16
+ITM0294,Bed Sheet,Linens,418,42.45,Supplier_C,2022-01-26
+ITM0295,Curtains,Linens,325,91.62,Supplier_C,2020-08-05
+ITM0296,Towel,Toiletries,134,162.6,Supplier_B,2023-07-20
+ITM0297,Towel,Electronics,487,143.78,Supplier_E,2020-11-27
+ITM0298,Bed Sheet,Electronics,340,85.19,Supplier_B,2020-01-07
+ITM0299,Towel,Furniture,381,65.64,Supplier_E,2021-06-21
+ITM0300,Towel,Electronics,419,61.33,Supplier_C,2023-11-07
+ITM0301,Chair,Electronics,145,193.31,Supplier_E,2023-05-23
+ITM0302,Desk,Toiletries,488,195.47,Supplier_D,2022-07-07
+ITM0303,Pillow,Toiletries,159,65.26,Supplier_D,2021-06-12
+ITM0304,Desk,Electronics,87,180.67,Supplier_E,2021-04-09
+ITM0305,Towel,Toiletries,140,161.36,Supplier_C,2023-11-27
+ITM0306,Lamp,Toiletries,409,162.4,Supplier_A,2021-07-17
+ITM0307,Television,Toiletries,41,30.99,Supplier_D,2021-11-20
+ITM0308,Towel,Toiletries,152,158.82,Supplier_B,2020-03-17
+ITM0309,Toiletries,Toiletries,360,182.17,Supplier_D,2023-01-13
+ITM0310,Toiletries,Furniture,154,149.51,Supplier_E,2020-02-20
+ITM0311,Desk,Linens,460,65.49,Supplier_A,2023-04-04
+ITM0312,Curtains,Toiletries,55,143.01,Supplier_B,2023-06-04
+ITM0313,Mini Fridge,Linens,281,193.06,Supplier_D,2020-03-02
+ITM0314,Television,Furniture,38,150.94,Supplier_A,2023-08-18
+ITM0315,Mini Fridge,Electronics,152,168.08,Supplier_D,2023-07-20
+ITM0316,Towel,Furniture,341,85.76,Supplier_A,2022-03-16
+ITM0317,Toiletries,Toiletries,341,155.82,Supplier_A,2023-11-25
+ITM0318,Toiletries,Toiletries,334,39.73,Supplier_B,2023-10-23
+ITM0319,Toiletries,Furniture,89,165.51,Supplier_E,2022-08-01
+ITM0320,Bed Sheet,Linens,467,167.08,Supplier_C,2022-06-10
+ITM0321,Pillow,Linens,280,11.97,Supplier_A,2022-11-15
+ITM0322,Pillow,Linens,246,136.22,Supplier_B,2023-04-12
+ITM0323,Mini Fridge,Electronics,24,72.47,Supplier_B,2021-12-14
+ITM0324,Towel,Electronics,274,189.63,Supplier_D,2022-02-06
+ITM0325,Lamp,Toiletries,425,102.43,Supplier_E,2021-05-24
+ITM0326,Pillow,Electronics,15,8.25,Supplier_D,2023-03-14
+ITM0327,Lamp,Furniture,177,69.67,Supplier_D,2022-12-16
+ITM0328,Mini Fridge,Linens,428,123.78,Supplier_B,2021-10-04
+ITM0329,Toiletries,Furniture,350,37.12,Supplier_D,2021-02-02
+ITM0330,Chair,Toiletries,346,72.75,Supplier_D,2020-06-09
+ITM0331,Lamp,Linens,342,16.14,Supplier_D,2020-01-05
+ITM0332,Toiletries,Furniture,98,96.46,Supplier_E,2020-07-12
+ITM0333,Mini Fridge,Electronics,31,95.55,Supplier_C,2023-05-20
+ITM0334,Curtains,Electronics,99,183.99,Supplier_A,2022-03-16
+ITM0335,Towel,Furniture,101,197.34,Supplier_D,2023-10-02
+ITM0336,Towel,Toiletries,40,130.28,Supplier_A,2021-09-02
+ITM0337,Television,Furniture,45,8.69,Supplier_B,2023-05-13
+ITM0338,Towel,Electronics,283,116.79,Supplier_E,2023-07-04
+ITM0339,Television,Linens,397,159.16,Supplier_E,2023-02-12
+ITM0340,Television,Furniture,486,66.05,Supplier_C,2020-01-25
+ITM0341,Mini Fridge,Electronics,78,9.96,Supplier_C,2023-09-08
+ITM0342,Mini Fridge,Linens,486,182.8,Supplier_D,2022-04-27
+ITM0343,Lamp,Linens,14,140.82,Supplier_E,2023-03-05
+ITM0344,Pillow,Furniture,482,106.04,Supplier_D,2021-07-05
+ITM0345,Lamp,Linens,19,81.83,Supplier_E,2023-12-01
+ITM0346,Towel,Electronics,477,17.92,Supplier_D,2021-12-06
+ITM0347,Desk,Furniture,461,174.26,Supplier_E,2023-03-22
+ITM0348,Towel,Toiletries,169,95.73,Supplier_E,2023-04-20
+ITM0349,Lamp,Linens,277,46.45,Supplier_D,2021-02-12
+ITM0350,Towel,Furniture,174,83.25,Supplier_C,2022-07-27
+ITM0351,Curtains,Electronics,22,93.88,Supplier_C,2020-08-23
+ITM0352,Mini Fridge,Linens,82,39.72,Supplier_E,2023-10-25
+ITM0353,Towel,Electronics,320,82.95,Supplier_C,2023-11-27
+ITM0354,Pillow,Toiletries,375,125.12,Supplier_E,2020-02-19
+ITM0355,Pillow,Electronics,150,76.47,Supplier_C,2021-11-24
+ITM0356,Desk,Furniture,59,48.64,Supplier_D,2021-02-13
+ITM0357,Mini Fridge,Toiletries,335,165.69,Supplier_C,2020-06-28
+ITM0358,Chair,Electronics,399,176.3,Supplier_A,2021-01-24
+ITM0359,Toiletries,Furniture,370,142.01,Supplier_A,2020-04-14
+ITM0360,Bed Sheet,Toiletries,159,134.9,Supplier_D,2021-04-17
+ITM0361,Toiletries,Toiletries,383,22.41,Supplier_A,2023-02-17
+ITM0362,Desk,Toiletries,382,27.27,Supplier_B,2023-05-11
+ITM0363,Curtains,Toiletries,283,180.12,Supplier_C,2023-07-11
+ITM0364,Curtains,Electronics,77,108.84,Supplier_C,2021-10-23
+ITM0365,Towel,Toiletries,38,67.3,Supplier_E,2020-11-17
+ITM0366,Toiletries,Linens,54,163.52,Supplier_C,2023-06-15
+ITM0367,Toiletries,Linens,175,133.43,Supplier_A,2023-07-12
+ITM0368,Towel,Toiletries,283,17.23,Supplier_D,2022-11-09
+ITM0369,Toiletries,Linens,347,67.33,Supplier_B,2021-07-22
+ITM0370,Lamp,Linens,132,63.84,Supplier_C,2023-01-25
+ITM0371,Chair,Toiletries,497,126.42,Supplier_A,2020-09-14
+ITM0372,Television,Linens,50,31.87,Supplier_E,2022-06-18
+ITM0373,Pillow,Toiletries,181,55.97,Supplier_B,2022-09-05
+ITM0374,Mini Fridge,Linens,484,101.58,Supplier_E,2022-02-05
+ITM0375,Curtains,Linens,352,193.71,Supplier_C,2021-01-19
+ITM0376,Towel,Furniture,433,160.17,Supplier_E,2023-09-04
+ITM0377,Chair,Furniture,239,53.1,Supplier_D,2022-11-12
+ITM0378,Toiletries,Furniture,57,145.95,Supplier_C,2020-03-22
+ITM0379,Bed Sheet,Toiletries,63,30.14,Supplier_C,2022-12-14
+ITM0380,Towel,Toiletries,491,76.58,Supplier_D,2022-01-02
+ITM0381,Desk,Linens,268,198.81,Supplier_D,2021-03-18
+ITM0382,Curtains,Furniture,212,129.29,Supplier_B,2021-03-11
+ITM0383,Desk,Furniture,481,143.57,Supplier_A,2020-05-10
+ITM0384,Lamp,Electronics,405,184.22,Supplier_B,2020-01-18
+ITM0385,Mini Fridge,Furniture,58,69.59,Supplier_A,2020-01-16
+ITM0386,Towel,Toiletries,377,101.71,Supplier_D,2020-06-05
+ITM0387,Pillow,Furniture,283,94.28,Supplier_C,2021-04-20
+ITM0388,Mini Fridge,Linens,323,94.46,Supplier_E,2021-10-16
+ITM0389,Chair,Toiletries,128,104.15,Supplier_E,2023-04-18
+ITM0390,Chair,Electronics,490,59.93,Supplier_C,2020-08-17
+ITM0391,Pillow,Electronics,302,101.46,Supplier_A,2020-04-14
+ITM0392,Bed Sheet,Furniture,40,69.79,Supplier_A,2022-08-17
+ITM0393,Towel,Furniture,449,107.66,Supplier_C,2022-08-16
+ITM0394,Desk,Toiletries,438,183.08,Supplier_C,2020-08-01
+ITM0395,Desk,Linens,378,112.12,Supplier_C,2021-05-02
+ITM0396,Television,Toiletries,174,68.09,Supplier_A,2021-07-12
+ITM0397,Bed Sheet,Linens,314,154.67,Supplier_B,2020-06-08
+ITM0398,Lamp,Linens,116,56.51,Supplier_B,2022-04-13
+ITM0399,Curtains,Linens,232,28.86,Supplier_D,2021-01-07
+ITM0400,Chair,Electronics,212,169.6,Supplier_E,2021-12-02
+ITM0401,Pillow,Toiletries,421,198.09,Supplier_D,2020-02-13
+ITM0402,Lamp,Electronics,102,33.34,Supplier_C,2023-09-15
+ITM0403,Mini Fridge,Linens,122,95.47,Supplier_C,2023-05-23
+ITM0404,Bed Sheet,Toiletries,391,60.35,Supplier_E,2021-03-03
+ITM0405,Bed Sheet,Toiletries,24,114.6,Supplier_D,2023-11-13
+ITM0406,Television,Furniture,390,102.99,Supplier_A,2021-01-09
+ITM0407,Television,Linens,177,195.68,Supplier_C,2021-02-10
+ITM0408,Towel,Toiletries,349,113.67,Supplier_C,2023-09-10
+ITM0409,Toiletries,Toiletries,133,144.76,Supplier_D,2020-10-13
+ITM0410,Towel,Linens,308,65.66,Supplier_D,2023-03-06
+ITM0411,Curtains,Toiletries,149,22.54,Supplier_B,2023-04-19
+ITM0412,Pillow,Linens,145,25.27,Supplier_E,2023-11-27
+ITM0413,Curtains,Furniture,114,126.05,Supplier_E,2020-06-14
+ITM0414,Lamp,Electronics,23,25.96,Supplier_B,2022-01-15
+ITM0415,Towel,Furniture,248,80.85,Supplier_D,2023-10-20
+ITM0416,Lamp,Furniture,487,68.68,Supplier_C,2021-05-04
+ITM0417,Mini Fridge,Electronics,303,178.43,Supplier_E,2020-12-06
+ITM0418,Mini Fridge,Linens,180,173.39,Supplier_E,2021-06-22
+ITM0419,Towel,Linens,168,58.97,Supplier_A,2023-05-26
+ITM0420,Bed Sheet,Toiletries,366,123.21,Supplier_E,2020-03-07
+ITM0421,Desk,Toiletries,489,61.4,Supplier_B,2022-12-02
+ITM0422,Toiletries,Furniture,208,65.21,Supplier_E,2023-03-06
+ITM0423,Towel,Linens,493,149.6,Supplier_D,2022-09-01
+ITM0424,Mini Fridge,Electronics,145,85.79,Supplier_A,2022-02-04
+ITM0425,Curtains,Toiletries,113,86.99,Supplier_B,2020-12-13
+ITM0426,Bed Sheet,Linens,336,126.79,Supplier_A,2020-01-26
+ITM0427,Toiletries,Toiletries,308,134.06,Supplier_A,2023-02-19
+ITM0428,Toiletries,Linens,433,144.53,Supplier_E,2020-01-26
+ITM0429,Mini Fridge,Linens,316,45.93,Supplier_D,2022-01-10
+ITM0430,Towel,Linens,299,195.08,Supplier_C,2023-02-22
+ITM0431,Chair,Toiletries,44,55.67,Supplier_D,2022-09-24
+ITM0432,Pillow,Electronics,204,112.9,Supplier_B,2021-08-11
+ITM0433,Curtains,Toiletries,145,16.53,Supplier_E,2023-07-10
+ITM0434,Lamp,Linens,227,111.14,Supplier_B,2022-05-14
+ITM0435,Toiletries,Furniture,268,140.82,Supplier_C,2020-11-25
+ITM0436,Lamp,Toiletries,479,183.21,Supplier_B,2021-03-11
+ITM0437,Pillow,Electronics,57,129.15,Supplier_D,2022-07-10
+ITM0438,Bed Sheet,Electronics,419,38.9,Supplier_D,2021-10-12
+ITM0439,Lamp,Furniture,111,166.04,Supplier_B,2021-04-08
+ITM0440,Pillow,Electronics,189,195.61,Supplier_E,2022-04-19
+ITM0441,Television,Electronics,185,36.75,Supplier_A,2023-10-17
+ITM0442,Pillow,Linens,157,104.2,Supplier_B,2020-06-28
+ITM0443,Pillow,Electronics,123,159.12,Supplier_C,2020-11-09
+ITM0444,Curtains,Furniture,175,68.08,Supplier_D,2022-11-14
+ITM0445,Pillow,Electronics,22,75.91,Supplier_E,2022-04-06
+ITM0446,Towel,Linens,10,166.5,Supplier_B,2022-12-14
+ITM0447,Desk,Electronics,20,151.98,Supplier_B,2022-04-08
+ITM0448,Lamp,Toiletries,422,12.27,Supplier_A,2020-12-12
+ITM0449,Towel,Linens,103,137.86,Supplier_A,2022-11-03
+ITM0450,Toiletries,Linens,283,79.64,Supplier_B,2020-01-06
+ITM0451,Mini Fridge,Toiletries,192,189.96,Supplier_C,2020-01-02
+ITM0452,Towel,Toiletries,409,91.65,Supplier_C,2021-01-08
+ITM0453,Lamp,Electronics,292,121.24,Supplier_D,2022-05-17
+ITM0454,Pillow,Electronics,394,159.62,Supplier_B,2023-11-20
+ITM0455,Television,Linens,73,165.02,Supplier_A,2020-09-09
+ITM0456,Pillow,Electronics,213,14.01,Supplier_C,2023-08-08
+ITM0457,Towel,Furniture,295,168.06,Supplier_E,2020-02-04
+ITM0458,Toiletries,Linens,355,118.07,Supplier_E,2023-09-23
+ITM0459,Television,Linens,309,175.89,Supplier_C,2022-04-04
+ITM0460,Towel,Toiletries,96,83.05,Supplier_C,2021-08-04
+ITM0461,Television,Linens,396,98.72,Supplier_B,2022-07-25
+ITM0462,Lamp,Toiletries,88,78.24,Supplier_C,2021-09-13
+ITM0463,Pillow,Toiletries,269,50.26,Supplier_D,2020-04-25
+ITM0464,Bed Sheet,Linens,243,8.33,Supplier_D,2020-10-20
+ITM0465,Curtains,Toiletries,218,175.12,Supplier_D,2021-01-13
+ITM0466,Bed Sheet,Linens,481,175.58,Supplier_D,2023-09-23
+ITM0467,Mini Fridge,Furniture,164,78.95,Supplier_B,2022-11-22
+ITM0468,Pillow,Electronics,167,174.33,Supplier_A,2020-02-25
+ITM0469,Bed Sheet,Electronics,478,152.28,Supplier_A,2021-01-25
+ITM0470,Bed Sheet,Electronics,455,41.47,Supplier_B,2020-11-13
+ITM0471,Pillow,Electronics,300,62.04,Supplier_C,2023-08-01
+ITM0472,Bed Sheet,Electronics,112,152.28,Supplier_A,2020-11-02
+ITM0473,Bed Sheet,Toiletries,215,40.51,Supplier_D,2022-02-01
+ITM0474,Television,Toiletries,161,62.75,Supplier_D,2020-02-08
+ITM0475,Mini Fridge,Electronics,111,86.32,Supplier_B,2023-08-11
+ITM0476,Pillow,Electronics,418,64.34,Supplier_A,2020-05-09
+ITM0477,Chair,Electronics,166,69.9,Supplier_A,2022-04-10
+ITM0478,Lamp,Furniture,497,71.65,Supplier_B,2022-05-25
+ITM0479,Curtains,Toiletries,33,150.47,Supplier_E,2020-08-15
+ITM0480,Towel,Linens,158,18.98,Supplier_E,2021-03-22
+ITM0481,Mini Fridge,Electronics,203,124.77,Supplier_A,2022-05-10
+ITM0482,Desk,Linens,492,71.53,Supplier_B,2020-12-24
+ITM0483,Chair,Linens,284,145.94,Supplier_E,2023-12-28
+ITM0484,Bed Sheet,Electronics,427,172.58,Supplier_C,2023-01-04
+ITM0485,Chair,Toiletries,497,11.09,Supplier_C,2021-05-26
+ITM0486,Chair,Toiletries,374,152.69,Supplier_A,2020-04-15
+ITM0487,Desk,Linens,142,136.71,Supplier_C,2022-06-08
+ITM0488,Towel,Electronics,91,161.47,Supplier_D,2023-07-18
+ITM0489,Desk,Electronics,268,13.66,Supplier_E,2020-12-23
+ITM0490,Towel,Linens,326,43.97,Supplier_D,2020-04-05
+ITM0491,Pillow,Toiletries,302,91.03,Supplier_A,2023-01-09
+ITM0492,Toiletries,Furniture,112,177.39,Supplier_C,2023-05-26
+ITM0493,Bed Sheet,Furniture,199,122.26,Supplier_C,2021-06-16
+ITM0494,Toiletries,Toiletries,404,23.31,Supplier_D,2020-04-18
+ITM0495,Towel,Furniture,256,84.28,Supplier_A,2023-02-09
+ITM0496,Towel,Electronics,95,147.39,Supplier_D,2023-02-16
+ITM0497,Bed Sheet,Furniture,101,59.28,Supplier_D,2020-06-11
+ITM0498,Desk,Electronics,80,146.81,Supplier_E,2022-10-21
+ITM0499,Mini Fridge,Furniture,494,180.22,Supplier_B,2021-02-10
+ITM0500,Curtains,Electronics,417,150.77,Supplier_E,2022-12-24
+ITM0501,Bed Sheet,Linens,416,176.14,Supplier_D,2020-01-05
+ITM0502,Television,Furniture,90,34.22,Supplier_C,2020-02-19
+ITM0503,Lamp,Furniture,49,27.62,Supplier_A,2021-06-25
+ITM0504,Pillow,Furniture,26,80.01,Supplier_B,2023-07-06
+ITM0505,Mini Fridge,Electronics,317,62.8,Supplier_A,2020-04-24
+ITM0506,Towel,Furniture,391,46.05,Supplier_E,2023-11-22
+ITM0507,Mini Fridge,Toiletries,105,177.59,Supplier_D,2023-01-20
+ITM0508,Television,Linens,279,192.84,Supplier_A,2023-08-12
+ITM0509,Pillow,Toiletries,155,55.35,Supplier_A,2020-04-01
+ITM0510,Towel,Furniture,171,103.2,Supplier_D,2023-08-22
+ITM0511,Curtains,Toiletries,358,195.86,Supplier_D,2021-11-18
+ITM0512,Chair,Linens,105,101.61,Supplier_D,2023-08-25
+ITM0513,Lamp,Toiletries,32,86.75,Supplier_C,2023-01-03
+ITM0514,Television,Linens,158,62.87,Supplier_B,2020-07-28
+ITM0515,Mini Fridge,Electronics,23,138.08,Supplier_A,2023-02-05
+ITM0516,Television,Furniture,213,176.49,Supplier_B,2020-11-05
+ITM0517,Chair,Linens,229,102.42,Supplier_A,2023-02-03
+ITM0518,Towel,Toiletries,330,83.31,Supplier_E,2021-01-12
+ITM0519,Bed Sheet,Linens,146,28.83,Supplier_C,2022-09-28
+ITM0520,Desk,Linens,345,177.76,Supplier_E,2022-10-20
+ITM0521,Toiletries,Linens,425,33.14,Supplier_B,2020-06-11
+ITM0522,Bed Sheet,Furniture,262,15.69,Supplier_C,2020-02-12
+ITM0523,Towel,Furniture,458,45.46,Supplier_D,2020-09-02
+ITM0524,Lamp,Toiletries,311,105.59,Supplier_D,2020-06-08
+ITM0525,Chair,Toiletries,102,51.69,Supplier_E,2020-09-07
+ITM0526,Pillow,Linens,479,90.35,Supplier_B,2023-07-08
+ITM0527,Pillow,Electronics,67,22.92,Supplier_C,2022-09-21
+ITM0528,Chair,Linens,126,35.56,Supplier_C,2022-05-03
+ITM0529,Chair,Electronics,131,137.63,Supplier_C,2022-03-02
+ITM0530,Chair,Furniture,48,21.02,Supplier_E,2022-05-09
+ITM0531,Bed Sheet,Electronics,387,178.42,Supplier_C,2020-08-06
+ITM0532,Towel,Electronics,30,118.82,Supplier_D,2022-07-25
+ITM0533,Lamp,Linens,259,19.09,Supplier_D,2020-04-14
+ITM0534,Mini Fridge,Furniture,342,59.51,Supplier_C,2020-08-01
+ITM0535,Chair,Furniture,253,142.59,Supplier_D,2021-03-26
+ITM0536,Mini Fridge,Electronics,43,12.95,Supplier_C,2021-10-21
+ITM0537,Chair,Furniture,194,119.43,Supplier_D,2023-09-01
+ITM0538,Towel,Furniture,464,11.23,Supplier_A,2023-09-20
+ITM0539,Mini Fridge,Furniture,321,149.58,Supplier_B,2023-08-25
+ITM0540,Curtains,Electronics,390,50.83,Supplier_E,2022-04-21
+ITM0541,Chair,Linens,367,108.12,Supplier_C,2020-09-04
+ITM0542,Toiletries,Furniture,410,196.66,Supplier_D,2021-04-08
+ITM0543,Chair,Linens,229,17.53,Supplier_B,2020-09-05
+ITM0544,Towel,Furniture,362,182.24,Supplier_C,2020-08-18
+ITM0545,Towel,Electronics,197,165.79,Supplier_D,2020-09-23
+ITM0546,Lamp,Furniture,474,147.32,Supplier_A,2023-08-03
+ITM0547,Lamp,Linens,339,71.31,Supplier_C,2022-06-01
+ITM0548,Chair,Electronics,324,178.54,Supplier_C,2023-05-22
+ITM0549,Television,Linens,75,100.43,Supplier_C,2023-04-08
+ITM0550,Bed Sheet,Furniture,366,191.49,Supplier_D,2020-01-14
+ITM0551,Mini Fridge,Linens,444,69.68,Supplier_E,2023-01-03
+ITM0552,Curtains,Furniture,415,34.73,Supplier_D,2023-01-23
+ITM0553,Toiletries,Linens,455,159.3,Supplier_E,2020-03-02
+ITM0554,Toiletries,Toiletries,19,97.79,Supplier_C,2021-07-19
+ITM0555,Chair,Furniture,30,94.75,Supplier_C,2021-09-15
+ITM0556,Toiletries,Toiletries,415,27.14,Supplier_A,2022-06-24
+ITM0557,Chair,Electronics,263,43.03,Supplier_B,2021-11-06
+ITM0558,Mini Fridge,Electronics,33,25.86,Supplier_D,2023-03-08
+ITM0559,Mini Fridge,Furniture,332,80.44,Supplier_D,2020-11-21
+ITM0560,Television,Toiletries,468,136.59,Supplier_A,2020-11-23
+ITM0561,Mini Fridge,Electronics,336,30.74,Supplier_B,2021-06-20
+ITM0562,Chair,Furniture,78,82.4,Supplier_A,2022-01-19
+ITM0563,Toiletries,Furniture,252,49.41,Supplier_D,2022-08-28
+ITM0564,Curtains,Electronics,475,161.23,Supplier_D,2022-04-23
+ITM0565,Television,Linens,224,118.8,Supplier_B,2023-02-17
+ITM0566,Bed Sheet,Electronics,277,92.31,Supplier_E,2020-12-20
+ITM0567,Towel,Linens,75,65.82,Supplier_A,2023-02-17
+ITM0568,Chair,Electronics,484,177.2,Supplier_C,2021-01-27
+ITM0569,Curtains,Electronics,114,119.69,Supplier_C,2023-12-03
+ITM0570,Curtains,Linens,169,5.37,Supplier_E,2023-06-26
+ITM0571,Desk,Electronics,231,61.41,Supplier_E,2020-09-20
+ITM0572,Desk,Toiletries,203,33.9,Supplier_A,2021-04-10
+ITM0573,Television,Linens,128,67.02,Supplier_C,2022-09-12
+ITM0574,Curtains,Furniture,199,45.18,Supplier_C,2022-12-27
+ITM0575,Desk,Furniture,157,39.62,Supplier_A,2021-09-28
+ITM0576,Pillow,Toiletries,378,22.28,Supplier_A,2021-05-22
+ITM0577,Chair,Toiletries,300,169.28,Supplier_B,2021-01-11
+ITM0578,Toiletries,Furniture,465,20.19,Supplier_D,2020-04-16
+ITM0579,Mini Fridge,Furniture,347,68.05,Supplier_D,2021-05-04
+ITM0580,Lamp,Toiletries,387,171.77,Supplier_A,2021-08-02
+ITM0581,Towel,Linens,463,162.98,Supplier_A,2023-02-07
+ITM0582,Towel,Toiletries,441,89.6,Supplier_A,2020-11-19
+ITM0583,Towel,Toiletries,483,88.3,Supplier_A,2023-09-22
+ITM0584,Lamp,Electronics,307,76.19,Supplier_B,2022-01-26
+ITM0585,Television,Linens,169,186.65,Supplier_D,2021-09-24
+ITM0586,Toiletries,Linens,312,11.92,Supplier_C,2020-01-01
+ITM0587,Towel,Toiletries,490,31.33,Supplier_A,2021-11-09
+ITM0588,Curtains,Electronics,197,152.05,Supplier_B,2021-08-07
+ITM0589,Lamp,Furniture,325,39.15,Supplier_C,2022-05-09
+ITM0590,Towel,Toiletries,267,177.68,Supplier_C,2021-08-25
+ITM0591,Mini Fridge,Linens,15,119.0,Supplier_C,2023-04-13
+ITM0592,Desk,Electronics,24,7.47,Supplier_C,2023-09-24
+ITM0593,Bed Sheet,Toiletries,202,138.0,Supplier_D,2021-05-15
+ITM0594,Lamp,Electronics,126,143.15,Supplier_D,2021-06-05
+ITM0595,Lamp,Furniture,72,89.31,Supplier_A,2020-05-09
+ITM0596,Mini Fridge,Electronics,340,173.98,Supplier_B,2023-12-27
+ITM0597,Chair,Toiletries,475,55.4,Supplier_C,2022-03-23
+ITM0598,Television,Furniture,71,175.11,Supplier_D,2022-08-01
+ITM0599,Toiletries,Furniture,341,147.49,Supplier_B,2022-10-19
+ITM0600,Desk,Toiletries,235,40.79,Supplier_C,2021-03-21
+ITM0601,Chair,Furniture,10,122.14,Supplier_C,2020-08-05
+ITM0602,Lamp,Furniture,170,137.21,Supplier_D,2020-11-24
+ITM0603,Toiletries,Linens,466,53.97,Supplier_A,2023-12-04
+ITM0604,Mini Fridge,Toiletries,376,155.49,Supplier_D,2021-11-18
+ITM0605,Toiletries,Electronics,95,98.73,Supplier_C,2020-10-04
+ITM0606,Pillow,Toiletries,243,132.41,Supplier_D,2022-09-15
+ITM0607,Lamp,Electronics,448,64.66,Supplier_B,2021-03-28
+ITM0608,Desk,Linens,431,94.64,Supplier_E,2020-01-17
+ITM0609,Desk,Furniture,149,69.23,Supplier_E,2023-01-15
+ITM0610,Curtains,Electronics,419,76.5,Supplier_D,2022-09-16
+ITM0611,Lamp,Furniture,314,112.58,Supplier_A,2023-06-04
+ITM0612,Toiletries,Linens,77,197.18,Supplier_C,2020-08-12
+ITM0613,Desk,Linens,201,161.71,Supplier_A,2022-03-20
+ITM0614,Pillow,Toiletries,445,50.31,Supplier_E,2020-03-12
+ITM0615,Mini Fridge,Electronics,202,147.64,Supplier_B,2020-01-17
+ITM0616,Bed Sheet,Electronics,110,85.18,Supplier_D,2020-03-20
+ITM0617,Pillow,Linens,499,166.14,Supplier_A,2021-08-23
+ITM0618,Mini Fridge,Linens,412,175.13,Supplier_C,2023-06-03
+ITM0619,Desk,Linens,488,113.87,Supplier_E,2021-02-26
+ITM0620,Curtains,Toiletries,265,76.47,Supplier_E,2023-01-14
+ITM0621,Towel,Electronics,491,60.3,Supplier_C,2022-06-04
+ITM0622,Desk,Linens,371,147.26,Supplier_D,2023-06-06
+ITM0623,Pillow,Linens,453,77.97,Supplier_D,2022-04-12
+ITM0624,Chair,Electronics,330,180.34,Supplier_C,2020-06-25
+ITM0625,Curtains,Furniture,58,35.01,Supplier_A,2023-01-16
+ITM0626,Mini Fridge,Electronics,256,122.17,Supplier_D,2022-09-21
+ITM0627,Mini Fridge,Electronics,265,8.67,Supplier_A,2023-11-04
+ITM0628,Towel,Linens,389,147.65,Supplier_B,2020-10-08
+ITM0629,Lamp,Toiletries,305,88.77,Supplier_B,2023-11-22
+ITM0630,Chair,Linens,73,153.51,Supplier_E,2021-08-06
+ITM0631,Lamp,Electronics,67,156.45,Supplier_E,2021-12-13
+ITM0632,Toiletries,Furniture,329,152.7,Supplier_D,2022-03-20
+ITM0633,Towel,Electronics,38,15.03,Supplier_A,2021-03-14
+ITM0634,Bed Sheet,Furniture,270,59.32,Supplier_E,2021-06-28
+ITM0635,Desk,Toiletries,418,126.19,Supplier_A,2022-11-05
+ITM0636,Pillow,Linens,270,139.6,Supplier_D,2023-01-12
+ITM0637,Television,Furniture,97,196.52,Supplier_E,2022-01-07
+ITM0638,Desk,Toiletries,85,24.65,Supplier_D,2022-12-26
+ITM0639,Chair,Electronics,163,153.16,Supplier_E,2020-12-07
+ITM0640,Towel,Linens,255,89.93,Supplier_B,2021-04-17
+ITM0641,Bed Sheet,Furniture,471,134.37,Supplier_C,2020-03-15
+ITM0642,Television,Electronics,346,160.49,Supplier_A,2021-08-07
+ITM0643,Lamp,Furniture,35,172.58,Supplier_E,2021-06-06
+ITM0644,Mini Fridge,Furniture,83,153.62,Supplier_D,2020-03-24
+ITM0645,Towel,Toiletries,496,68.3,Supplier_D,2022-02-04
+ITM0646,Mini Fridge,Linens,13,95.44,Supplier_B,2023-01-14
+ITM0647,Television,Electronics,139,56.64,Supplier_A,2020-08-21
+ITM0648,Pillow,Linens,252,106.48,Supplier_E,2022-03-12
+ITM0649,Pillow,Toiletries,289,66.04,Supplier_C,2021-11-07
+ITM0650,Towel,Linens,400,69.34,Supplier_C,2023-05-25
+ITM0651,Television,Linens,153,142.71,Supplier_E,2023-06-17
+ITM0652,Chair,Electronics,325,16.66,Supplier_D,2022-09-14
+ITM0653,Bed Sheet,Electronics,394,195.41,Supplier_B,2022-01-24
+ITM0654,Lamp,Electronics,400,103.3,Supplier_A,2020-10-13
+ITM0655,Toiletries,Toiletries,363,102.5,Supplier_C,2023-08-11
+ITM0656,Curtains,Linens,213,16.79,Supplier_D,2022-03-26
+ITM0657,Bed Sheet,Electronics,318,141.1,Supplier_E,2022-02-11
+ITM0658,Towel,Electronics,434,187.28,Supplier_A,2022-10-25
+ITM0659,Television,Linens,207,169.02,Supplier_D,2021-06-19
+ITM0660,Desk,Electronics,127,167.05,Supplier_A,2023-08-22
+ITM0661,Pillow,Furniture,498,122.49,Supplier_C,2021-05-19
+ITM0662,Towel,Toiletries,107,39.39,Supplier_B,2022-05-09
+ITM0663,Mini Fridge,Furniture,59,63.37,Supplier_D,2022-12-25
+ITM0664,Pillow,Furniture,216,181.32,Supplier_E,2021-01-12
+ITM0665,Curtains,Electronics,377,75.03,Supplier_E,2020-08-08
+ITM0666,Lamp,Furniture,30,143.12,Supplier_B,2021-11-16
+ITM0667,Pillow,Linens,199,38.11,Supplier_E,2020-03-04
+ITM0668,Mini Fridge,Linens,162,12.7,Supplier_B,2020-07-10
+ITM0669,Toiletries,Furniture,175,113.23,Supplier_B,2020-01-12
+ITM0670,Desk,Furniture,77,198.56,Supplier_E,2022-09-18
+ITM0671,Bed Sheet,Furniture,205,55.56,Supplier_E,2021-10-14
+ITM0672,Toiletries,Toiletries,150,74.8,Supplier_A,2023-05-08
+ITM0673,Curtains,Linens,208,176.93,Supplier_A,2023-02-28
+ITM0674,Television,Linens,478,148.02,Supplier_D,2021-08-02
+ITM0675,Curtains,Linens,10,75.82,Supplier_D,2022-06-21
+ITM0676,Lamp,Furniture,201,27.37,Supplier_A,2022-01-11
+ITM0677,Toiletries,Linens,97,17.42,Supplier_D,2020-08-09
+ITM0678,Mini Fridge,Linens,373,63.08,Supplier_A,2022-05-13
+ITM0679,Chair,Furniture,190,64.36,Supplier_D,2020-05-13
+ITM0680,Chair,Electronics,453,171.6,Supplier_A,2020-03-25
+ITM0681,Towel,Electronics,480,27.27,Supplier_D,2021-05-01
+ITM0682,Television,Electronics,134,9.0,Supplier_D,2022-12-17
+ITM0683,Television,Furniture,155,16.23,Supplier_A,2021-08-13
+ITM0684,Toiletries,Linens,425,144.23,Supplier_B,2021-12-21
+ITM0685,Television,Toiletries,141,132.46,Supplier_B,2023-08-12
+ITM0686,Bed Sheet,Electronics,92,156.42,Supplier_C,2021-08-08
+ITM0687,Mini Fridge,Furniture,375,144.63,Supplier_D,2022-04-11
+ITM0688,Toiletries,Toiletries,279,140.6,Supplier_E,2023-03-21
+ITM0689,Towel,Toiletries,390,103.0,Supplier_B,2022-06-19
+ITM0690,Bed Sheet,Linens,381,116.51,Supplier_D,2021-01-14
+ITM0691,Toiletries,Linens,343,104.35,Supplier_D,2020-02-17
+ITM0692,Bed Sheet,Toiletries,488,96.83,Supplier_A,2022-02-23
+ITM0693,Toiletries,Linens,345,164.02,Supplier_C,2021-10-18
+ITM0694,Bed Sheet,Electronics,453,23.94,Supplier_E,2020-09-19
+ITM0695,Toiletries,Electronics,492,78.13,Supplier_B,2023-07-14
+ITM0696,Pillow,Linens,157,159.25,Supplier_B,2020-10-05
+ITM0697,Curtains,Furniture,432,187.42,Supplier_E,2021-02-05
+ITM0698,Toiletries,Furniture,142,59.62,Supplier_D,2021-10-10
+ITM0699,Television,Electronics,142,108.35,Supplier_E,2020-12-27
+ITM0700,Chair,Furniture,169,126.04,Supplier_A,2023-08-20
+ITM0701,Television,Toiletries,462,161.27,Supplier_C,2021-12-26
+ITM0702,Towel,Toiletries,302,79.81,Supplier_D,2020-12-19
+ITM0703,Bed Sheet,Electronics,400,162.51,Supplier_B,2020-01-21
+ITM0704,Chair,Toiletries,231,156.21,Supplier_B,2023-12-16
+ITM0705,Desk,Linens,222,58.45,Supplier_D,2021-04-27
+ITM0706,Television,Linens,143,39.4,Supplier_A,2023-10-03
+ITM0707,Television,Linens,151,107.67,Supplier_B,2023-10-25
+ITM0708,Desk,Furniture,299,7.98,Supplier_E,2022-04-22
+ITM0709,Mini Fridge,Furniture,157,158.03,Supplier_B,2020-06-15
+ITM0710,Mini Fridge,Toiletries,250,44.5,Supplier_B,2021-09-21
+ITM0711,Curtains,Electronics,474,103.04,Supplier_A,2023-12-20
+ITM0712,Lamp,Electronics,440,165.71,Supplier_A,2021-11-05
+ITM0713,Towel,Toiletries,38,162.23,Supplier_B,2021-09-25
+ITM0714,Pillow,Linens,481,107.11,Supplier_B,2023-02-14
+ITM0715,Chair,Furniture,423,39.97,Supplier_D,2022-10-18
+ITM0716,Towel,Linens,16,79.04,Supplier_A,2020-09-05
+ITM0717,Desk,Furniture,326,180.91,Supplier_A,2022-05-14
+ITM0718,Pillow,Linens,167,146.62,Supplier_E,2021-09-12
+ITM0719,Desk,Electronics,468,14.0,Supplier_D,2023-04-02
+ITM0720,Mini Fridge,Linens,280,188.63,Supplier_E,2020-09-02
+ITM0721,Desk,Electronics,154,181.86,Supplier_D,2020-02-16
+ITM0722,Desk,Electronics,62,72.71,Supplier_E,2021-07-21
+ITM0723,Bed Sheet,Electronics,289,183.56,Supplier_B,2022-08-20
+ITM0724,Lamp,Toiletries,482,38.55,Supplier_B,2023-10-27
+ITM0725,Pillow,Linens,34,175.7,Supplier_C,2021-01-24
+ITM0726,Toiletries,Furniture,303,169.72,Supplier_D,2020-09-05
+ITM0727,Curtains,Linens,378,108.98,Supplier_E,2020-08-08
+ITM0728,Toiletries,Electronics,202,144.64,Supplier_B,2022-03-01
+ITM0729,Chair,Electronics,184,133.18,Supplier_E,2023-06-15
+ITM0730,Bed Sheet,Electronics,498,128.33,Supplier_A,2022-07-04
+ITM0731,Desk,Electronics,386,195.61,Supplier_E,2021-03-19
+ITM0732,Toiletries,Electronics,189,44.38,Supplier_B,2022-07-16
+ITM0733,Mini Fridge,Linens,369,62.84,Supplier_A,2023-02-17
+ITM0734,Towel,Electronics,272,193.84,Supplier_B,2020-02-21
+ITM0735,Desk,Electronics,95,128.77,Supplier_E,2023-07-13
+ITM0736,Bed Sheet,Linens,145,132.49,Supplier_D,2021-02-14
+ITM0737,Lamp,Linens,303,116.3,Supplier_C,2023-11-05
+ITM0738,Bed Sheet,Electronics,22,180.78,Supplier_D,2023-02-10
+ITM0739,Toiletries,Linens,380,75.25,Supplier_B,2023-06-25
+ITM0740,Curtains,Furniture,172,163.4,Supplier_E,2023-02-17
+ITM0741,Pillow,Furniture,17,151.03,Supplier_D,2023-07-05
+ITM0742,Bed Sheet,Electronics,13,16.12,Supplier_B,2020-02-08
+ITM0743,Curtains,Electronics,317,183.89,Supplier_A,2023-01-06
+ITM0744,Bed Sheet,Electronics,99,110.31,Supplier_D,2020-01-23
+ITM0745,Lamp,Electronics,59,144.88,Supplier_D,2021-05-19
+ITM0746,Chair,Toiletries,284,115.34,Supplier_B,2022-09-16
+ITM0747,Lamp,Furniture,373,99.04,Supplier_E,2021-02-08
+ITM0748,Curtains,Furniture,289,157.4,Supplier_A,2022-09-03
+ITM0749,Television,Electronics,293,16.75,Supplier_A,2023-02-04
+ITM0750,Curtains,Furniture,379,133.82,Supplier_E,2021-04-11
+ITM0751,Lamp,Furniture,491,50.88,Supplier_B,2022-01-27
+ITM0752,Toiletries,Linens,43,82.61,Supplier_E,2021-11-09
+ITM0753,Curtains,Toiletries,495,58.68,Supplier_E,2023-07-06
+ITM0754,Chair,Toiletries,307,33.04,Supplier_B,2021-09-11
+ITM0755,Curtains,Toiletries,83,195.07,Supplier_D,2022-07-04
+ITM0756,Curtains,Electronics,352,150.92,Supplier_D,2020-11-23
+ITM0757,Television,Linens,311,79.05,Supplier_A,2023-01-24
+ITM0758,Television,Furniture,62,62.63,Supplier_C,2020-12-24
+ITM0759,Bed Sheet,Toiletries,473,65.88,Supplier_E,2022-10-07
+ITM0760,Pillow,Linens,379,181.07,Supplier_E,2021-03-10
+ITM0761,Toiletries,Toiletries,168,85.64,Supplier_D,2022-01-24
+ITM0762,Lamp,Electronics,449,45.78,Supplier_E,2021-04-06
+ITM0763,Bed Sheet,Toiletries,447,31.75,Supplier_C,2020-05-15
+ITM0764,Lamp,Toiletries,161,119.42,Supplier_A,2022-09-12
+ITM0765,Curtains,Furniture,243,20.34,Supplier_E,2022-02-03
+ITM0766,Chair,Linens,360,12.58,Supplier_C,2021-01-20
+ITM0767,Curtains,Linens,20,189.1,Supplier_C,2023-07-15
+ITM0768,Curtains,Linens,244,100.94,Supplier_E,2022-04-07
+ITM0769,Chair,Furniture,105,101.65,Supplier_C,2022-03-04
+ITM0770,Mini Fridge,Toiletries,59,130.06,Supplier_D,2021-12-16
+ITM0771,Lamp,Linens,122,67.05,Supplier_B,2020-02-20
+ITM0772,Lamp,Linens,178,55.83,Supplier_E,2022-09-16
+ITM0773,Television,Toiletries,230,172.68,Supplier_D,2023-08-15
+ITM0774,Towel,Electronics,188,161.17,Supplier_D,2022-12-21
+ITM0775,Curtains,Electronics,166,86.75,Supplier_A,2022-09-07
+ITM0776,Pillow,Linens,98,81.35,Supplier_D,2022-09-21
+ITM0777,Curtains,Electronics,263,196.94,Supplier_D,2022-05-26
+ITM0778,Mini Fridge,Linens,187,180.33,Supplier_E,2021-04-13
+ITM0779,Toiletries,Electronics,441,174.89,Supplier_B,2021-09-28
+ITM0780,Curtains,Furniture,223,193.18,Supplier_C,2021-12-25
+ITM0781,Chair,Furniture,91,43.28,Supplier_D,2020-10-15
+ITM0782,Chair,Furniture,90,178.99,Supplier_D,2020-10-11
+ITM0783,Chair,Toiletries,322,88.27,Supplier_D,2020-08-02
+ITM0784,Pillow,Toiletries,58,155.87,Supplier_E,2020-06-15
+ITM0785,Towel,Electronics,394,142.64,Supplier_C,2022-01-18
+ITM0786,Lamp,Linens,297,181.12,Supplier_E,2020-09-08
+ITM0787,Chair,Electronics,456,120.71,Supplier_A,2023-11-20
+ITM0788,Chair,Toiletries,281,188.08,Supplier_A,2020-10-26
+ITM0789,Pillow,Toiletries,409,68.36,Supplier_E,2022-10-27
+ITM0790,Chair,Furniture,415,40.46,Supplier_C,2021-01-23
+ITM0791,Chair,Toiletries,317,198.98,Supplier_E,2022-12-13
+ITM0792,Chair,Furniture,13,133.95,Supplier_E,2023-10-05
+ITM0793,Curtains,Furniture,308,81.66,Supplier_B,2022-02-07
+ITM0794,Mini Fridge,Linens,41,165.39,Supplier_A,2022-11-16
+ITM0795,Chair,Furniture,330,105.81,Supplier_D,2021-10-24
+ITM0796,Desk,Furniture,276,26.5,Supplier_B,2021-06-27
+ITM0797,Lamp,Toiletries,469,90.63,Supplier_A,2020-12-06
+ITM0798,Towel,Linens,413,30.25,Supplier_E,2022-08-01
+ITM0799,Toiletries,Furniture,464,62.58,Supplier_A,2023-08-14
+ITM0800,Chair,Linens,60,131.4,Supplier_D,2023-02-15
+ITM0801,Desk,Toiletries,34,53.18,Supplier_C,2021-05-17
+ITM0802,Lamp,Toiletries,337,70.72,Supplier_E,2020-02-13
+ITM0803,Lamp,Electronics,337,57.97,Supplier_D,2020-09-03
+ITM0804,Mini Fridge,Linens,268,68.48,Supplier_C,2022-10-19
+ITM0805,Mini Fridge,Electronics,455,120.57,Supplier_A,2021-10-23
+ITM0806,Curtains,Linens,138,184.53,Supplier_D,2023-10-28
+ITM0807,Towel,Furniture,252,187.4,Supplier_E,2022-10-03
+ITM0808,Mini Fridge,Toiletries,61,109.83,Supplier_A,2022-05-19
+ITM0809,Curtains,Toiletries,207,174.91,Supplier_E,2022-07-22
+ITM0810,Television,Toiletries,108,131.61,Supplier_D,2023-09-02
+ITM0811,Toiletries,Linens,402,161.9,Supplier_A,2023-05-04
+ITM0812,Mini Fridge,Linens,293,140.74,Supplier_D,2023-08-12
+ITM0813,Pillow,Toiletries,410,106.43,Supplier_B,2020-07-06
+ITM0814,Curtains,Electronics,312,56.2,Supplier_D,2022-03-13
+ITM0815,Toiletries,Furniture,44,121.61,Supplier_A,2023-02-03
+ITM0816,Curtains,Electronics,391,62.84,Supplier_A,2022-05-25
+ITM0817,Toiletries,Furniture,59,123.81,Supplier_E,2023-03-11
+ITM0818,Mini Fridge,Electronics,457,44.12,Supplier_B,2022-02-06
+ITM0819,Mini Fridge,Toiletries,420,188.18,Supplier_A,2022-09-15
+ITM0820,Lamp,Electronics,272,124.06,Supplier_A,2021-06-10
+ITM0821,Pillow,Furniture,280,54.74,Supplier_B,2020-02-03
+ITM0822,Bed Sheet,Electronics,67,199.65,Supplier_B,2023-09-20
+ITM0823,Mini Fridge,Linens,258,61.43,Supplier_E,2023-11-26
+ITM0824,Desk,Electronics,311,45.75,Supplier_D,2023-02-06
+ITM0825,Television,Electronics,217,133.0,Supplier_C,2020-03-11
+ITM0826,Towel,Toiletries,463,145.03,Supplier_D,2023-11-20
+ITM0827,Chair,Electronics,348,31.58,Supplier_C,2021-04-20
+ITM0828,Pillow,Toiletries,49,169.59,Supplier_A,2021-03-18
+ITM0829,Pillow,Toiletries,259,35.78,Supplier_A,2022-10-08
+ITM0830,Desk,Electronics,335,163.03,Supplier_A,2021-10-01
+ITM0831,Towel,Electronics,396,142.2,Supplier_B,2023-04-21
+ITM0832,Mini Fridge,Linens,117,188.81,Supplier_E,2020-07-19
+ITM0833,Towel,Toiletries,11,29.13,Supplier_B,2021-05-28
+ITM0834,Mini Fridge,Electronics,320,70.62,Supplier_E,2022-11-26
+ITM0835,Television,Linens,174,157.84,Supplier_C,2021-01-11
+ITM0836,Towel,Linens,489,146.21,Supplier_E,2022-05-10
+ITM0837,Desk,Electronics,252,138.61,Supplier_A,2020-05-13
+ITM0838,Desk,Toiletries,396,106.34,Supplier_D,2021-10-26
+ITM0839,Towel,Toiletries,183,199.43,Supplier_A,2022-07-25
+ITM0840,Pillow,Toiletries,243,123.43,Supplier_C,2023-11-19
+ITM0841,Curtains,Toiletries,205,30.79,Supplier_E,2020-10-04
+ITM0842,Lamp,Furniture,384,198.32,Supplier_C,2021-03-20
+ITM0843,Bed Sheet,Electronics,287,67.92,Supplier_E,2022-08-27
+ITM0844,Bed Sheet,Furniture,78,194.06,Supplier_A,2020-02-02
+ITM0845,Towel,Furniture,348,63.61,Supplier_B,2020-11-28
+ITM0846,Television,Furniture,222,153.79,Supplier_E,2022-06-05
+ITM0847,Curtains,Furniture,264,127.58,Supplier_D,2021-03-26
+ITM0848,Chair,Furniture,366,7.4,Supplier_D,2021-08-18
+ITM0849,Curtains,Linens,318,140.79,Supplier_B,2020-02-13
+ITM0850,Desk,Electronics,473,196.48,Supplier_B,2021-05-05
+ITM0851,Lamp,Toiletries,190,25.2,Supplier_E,2022-09-18
+ITM0852,Mini Fridge,Toiletries,426,74.29,Supplier_A,2020-06-02
+ITM0853,Toiletries,Electronics,305,182.34,Supplier_B,2022-10-16
+ITM0854,Pillow,Linens,458,45.3,Supplier_E,2023-10-28
+ITM0855,Pillow,Linens,66,88.21,Supplier_B,2022-10-27
+ITM0856,Towel,Electronics,248,70.95,Supplier_D,2020-04-10
+ITM0857,Television,Toiletries,13,35.01,Supplier_A,2020-05-28
+ITM0858,Television,Linens,469,61.22,Supplier_C,2023-01-08
+ITM0859,Curtains,Toiletries,122,108.13,Supplier_E,2021-11-22
+ITM0860,Lamp,Toiletries,283,58.05,Supplier_B,2022-06-16
+ITM0861,Pillow,Electronics,48,109.73,Supplier_C,2021-02-01
+ITM0862,Desk,Toiletries,35,93.39,Supplier_D,2023-11-12
+ITM0863,Television,Furniture,190,180.78,Supplier_C,2022-07-13
+ITM0864,Pillow,Electronics,189,21.82,Supplier_C,2023-01-20
+ITM0865,Pillow,Furniture,78,119.68,Supplier_A,2021-03-26
+ITM0866,Television,Linens,463,127.28,Supplier_A,2021-11-09
+ITM0867,Toiletries,Electronics,293,45.48,Supplier_C,2023-12-18
+ITM0868,Pillow,Linens,425,19.93,Supplier_C,2022-07-17
+ITM0869,Curtains,Furniture,40,112.87,Supplier_E,2023-12-21
+ITM0870,Pillow,Linens,135,105.24,Supplier_C,2020-09-09
+ITM0871,Curtains,Linens,96,80.97,Supplier_B,2020-02-04
+ITM0872,Lamp,Furniture,320,7.11,Supplier_C,2020-12-17
+ITM0873,Bed Sheet,Toiletries,19,188.38,Supplier_D,2020-06-12
+ITM0874,Lamp,Linens,241,130.13,Supplier_A,2023-08-25
+ITM0875,Television,Furniture,42,6.75,Supplier_C,2021-11-14
+ITM0876,Bed Sheet,Furniture,143,154.71,Supplier_A,2023-08-07
+ITM0877,Toiletries,Furniture,273,26.41,Supplier_D,2020-02-07
+ITM0878,Mini Fridge,Furniture,105,14.62,Supplier_B,2021-01-17
+ITM0879,Towel,Electronics,118,60.3,Supplier_D,2020-05-04
+ITM0880,Towel,Toiletries,79,140.8,Supplier_B,2020-12-06
+ITM0881,Curtains,Electronics,494,194.32,Supplier_B,2020-02-01
+ITM0882,Desk,Electronics,212,48.46,Supplier_B,2020-05-18
+ITM0883,Desk,Furniture,394,152.97,Supplier_C,2020-05-04
+ITM0884,Bed Sheet,Furniture,65,192.23,Supplier_E,2020-10-15
+ITM0885,Television,Linens,209,88.93,Supplier_E,2021-03-18
+ITM0886,Chair,Furniture,146,10.3,Supplier_A,2020-10-24
+ITM0887,Desk,Furniture,39,23.78,Supplier_D,2020-10-09
+ITM0888,Chair,Furniture,24,105.74,Supplier_B,2023-03-25
+ITM0889,Lamp,Toiletries,442,127.99,Supplier_C,2020-04-08
+ITM0890,Desk,Linens,122,150.11,Supplier_E,2023-07-27
+ITM0891,Curtains,Linens,154,179.74,Supplier_A,2021-10-15
+ITM0892,Mini Fridge,Electronics,469,20.16,Supplier_A,2022-07-18
+ITM0893,Desk,Linens,121,115.31,Supplier_B,2020-02-01
+ITM0894,Lamp,Linens,349,113.9,Supplier_B,2021-07-05
+ITM0895,Pillow,Linens,417,47.56,Supplier_A,2020-07-03
+ITM0896,Lamp,Linens,303,132.44,Supplier_D,2023-10-01
+ITM0897,Toiletries,Furniture,265,80.34,Supplier_E,2022-12-07
+ITM0898,Toiletries,Electronics,328,189.75,Supplier_D,2023-11-01
+ITM0899,Chair,Electronics,221,144.33,Supplier_A,2022-03-14
+ITM0900,Towel,Furniture,357,188.59,Supplier_B,2023-02-27
+ITM0901,Pillow,Toiletries,340,38.68,Supplier_C,2021-04-09
+ITM0902,Chair,Electronics,19,7.3,Supplier_D,2021-05-21
+ITM0903,Towel,Furniture,459,78.19,Supplier_A,2023-02-16
+ITM0904,Mini Fridge,Furniture,365,99.15,Supplier_E,2023-07-27
+ITM0905,Toiletries,Toiletries,371,187.6,Supplier_A,2021-01-27
+ITM0906,Mini Fridge,Toiletries,120,183.03,Supplier_A,2023-11-25
+ITM0907,Towel,Linens,471,148.63,Supplier_A,2022-01-07
+ITM0908,Lamp,Toiletries,222,87.05,Supplier_E,2022-06-18
+ITM0909,Toiletries,Furniture,180,148.84,Supplier_C,2020-07-06
+ITM0910,Toiletries,Furniture,212,83.66,Supplier_C,2023-09-01
+ITM0911,Toiletries,Electronics,39,71.46,Supplier_B,2023-05-16
+ITM0912,Lamp,Furniture,267,180.26,Supplier_B,2020-04-14
+ITM0913,Towel,Electronics,462,117.17,Supplier_E,2022-07-20
+ITM0914,Chair,Furniture,230,80.44,Supplier_A,2021-04-07
+ITM0915,Toiletries,Linens,118,41.19,Supplier_C,2022-11-21
+ITM0916,Curtains,Furniture,297,122.39,Supplier_A,2023-04-17
+ITM0917,Desk,Linens,236,169.53,Supplier_C,2021-02-21
+ITM0918,Television,Toiletries,115,19.28,Supplier_C,2020-04-08
+ITM0919,Mini Fridge,Linens,317,59.84,Supplier_C,2022-03-09
+ITM0920,Chair,Toiletries,323,56.78,Supplier_A,2020-01-24
+ITM0921,Bed Sheet,Furniture,27,60.14,Supplier_C,2021-04-16
+ITM0922,Chair,Linens,436,179.57,Supplier_C,2021-08-12
+ITM0923,Toiletries,Electronics,226,17.72,Supplier_B,2022-08-12
+ITM0924,Towel,Linens,428,38.08,Supplier_D,2021-08-17
+ITM0925,Lamp,Toiletries,134,16.31,Supplier_D,2022-07-21
+ITM0926,Chair,Electronics,320,81.4,Supplier_D,2020-10-21
+ITM0927,Curtains,Electronics,333,156.39,Supplier_D,2020-11-11
+ITM0928,Towel,Electronics,86,99.1,Supplier_E,2023-04-03
+ITM0929,Curtains,Furniture,372,58.38,Supplier_C,2023-08-18
+ITM0930,Toiletries,Electronics,145,81.28,Supplier_B,2020-09-22
+ITM0931,Television,Linens,288,183.81,Supplier_D,2020-01-01
+ITM0932,Lamp,Electronics,491,158.91,Supplier_B,2023-12-03
+ITM0933,Curtains,Electronics,111,107.93,Supplier_C,2022-02-02
+ITM0934,Toiletries,Toiletries,312,94.35,Supplier_E,2020-04-28
+ITM0935,Television,Toiletries,455,166.91,Supplier_E,2023-07-27
+ITM0936,Towel,Electronics,105,174.06,Supplier_A,2023-06-09
+ITM0937,Toiletries,Electronics,283,174.38,Supplier_A,2022-04-19
+ITM0938,Desk,Furniture,399,49.2,Supplier_B,2022-12-06
+ITM0939,Curtains,Furniture,439,81.09,Supplier_D,2022-09-13
+ITM0940,Pillow,Furniture,485,83.91,Supplier_D,2020-09-21
+ITM0941,Bed Sheet,Electronics,150,29.63,Supplier_D,2020-07-04
+ITM0942,Pillow,Linens,155,181.39,Supplier_C,2021-09-09
+ITM0943,Mini Fridge,Electronics,481,188.63,Supplier_D,2023-08-23
+ITM0944,Bed Sheet,Toiletries,397,96.92,Supplier_B,2020-01-03
+ITM0945,Desk,Linens,494,122.11,Supplier_D,2021-03-04
+ITM0946,Television,Electronics,310,37.22,Supplier_B,2020-08-05
+ITM0947,Desk,Linens,378,122.4,Supplier_C,2023-04-18
+ITM0948,Bed Sheet,Furniture,131,156.11,Supplier_E,2023-11-17
+ITM0949,Desk,Linens,200,96.17,Supplier_A,2020-12-07
+ITM0950,Lamp,Electronics,390,191.9,Supplier_B,2023-08-25
+ITM0951,Toiletries,Electronics,306,32.79,Supplier_E,2023-10-08
+ITM0952,Lamp,Furniture,394,28.22,Supplier_C,2022-03-08
+ITM0953,Television,Toiletries,86,116.89,Supplier_E,2022-01-24
+ITM0954,Mini Fridge,Furniture,343,32.21,Supplier_D,2021-09-27
+ITM0955,Pillow,Furniture,354,20.46,Supplier_D,2022-08-15
+ITM0956,Chair,Toiletries,428,68.23,Supplier_E,2021-02-16
+ITM0957,Curtains,Furniture,349,37.78,Supplier_E,2021-06-27
+ITM0958,Curtains,Electronics,144,163.0,Supplier_C,2020-12-18
+ITM0959,Bed Sheet,Toiletries,480,130.51,Supplier_B,2020-03-09
+ITM0960,Television,Linens,204,55.35,Supplier_A,2021-02-25
+ITM0961,Toiletries,Linens,147,18.05,Supplier_E,2021-05-23
+ITM0962,Bed Sheet,Toiletries,190,125.46,Supplier_B,2023-02-20
+ITM0963,Chair,Furniture,13,178.99,Supplier_E,2020-10-26
+ITM0964,Mini Fridge,Furniture,170,67.32,Supplier_B,2023-11-05
+ITM0965,Curtains,Toiletries,78,175.88,Supplier_D,2022-06-22
+ITM0966,Pillow,Toiletries,444,83.83,Supplier_D,2022-12-22
+ITM0967,Towel,Furniture,249,22.06,Supplier_B,2021-08-12
+ITM0968,Television,Furniture,300,98.62,Supplier_E,2023-12-10
+ITM0969,Television,Toiletries,499,142.5,Supplier_C,2020-07-18
+ITM0970,Lamp,Toiletries,394,127.67,Supplier_D,2023-05-09
+ITM0971,Desk,Linens,350,132.03,Supplier_E,2022-06-06
+ITM0972,Towel,Linens,120,152.64,Supplier_B,2022-10-17
+ITM0973,Toiletries,Electronics,61,27.63,Supplier_D,2020-06-21
+ITM0974,Mini Fridge,Toiletries,370,108.45,Supplier_E,2023-04-11
+ITM0975,Desk,Electronics,55,49.85,Supplier_B,2022-05-07
+ITM0976,Toiletries,Electronics,394,57.1,Supplier_C,2023-09-11
+ITM0977,Bed Sheet,Toiletries,332,113.92,Supplier_E,2020-11-19
+ITM0978,Bed Sheet,Toiletries,264,13.72,Supplier_C,2023-10-14
+ITM0979,Desk,Electronics,147,9.07,Supplier_E,2023-05-09
+ITM0980,Chair,Toiletries,460,120.19,Supplier_D,2022-07-23
+ITM0981,Bed Sheet,Toiletries,53,187.32,Supplier_C,2021-12-14
+ITM0982,Television,Furniture,298,66.93,Supplier_D,2023-10-28
+ITM0983,Television,Toiletries,29,127.25,Supplier_C,2021-02-13
+ITM0984,Lamp,Furniture,362,116.59,Supplier_B,2022-07-15
+ITM0985,Pillow,Electronics,460,143.21,Supplier_D,2020-07-17
+ITM0986,Bed Sheet,Furniture,30,57.22,Supplier_E,2020-05-09
+ITM0987,Desk,Furniture,496,35.83,Supplier_B,2021-05-22
+ITM0988,Towel,Furniture,463,7.58,Supplier_A,2020-04-21
+ITM0989,Lamp,Furniture,495,162.44,Supplier_A,2021-02-12
+ITM0990,Chair,Furniture,143,153.76,Supplier_B,2021-01-20
+ITM0991,Toiletries,Toiletries,184,154.0,Supplier_D,2023-02-07
+ITM0992,Chair,Furniture,91,138.93,Supplier_C,2020-05-16
+ITM0993,Curtains,Furniture,350,36.8,Supplier_B,2021-04-19
+ITM0994,Curtains,Furniture,382,63.87,Supplier_D,2023-02-16
+ITM0995,Bed Sheet,Toiletries,404,180.37,Supplier_A,2021-04-13
+ITM0996,Towel,Furniture,391,63.96,Supplier_E,2021-08-28
+ITM0997,Lamp,Electronics,465,77.1,Supplier_C,2022-03-12
+ITM0998,Toiletries,Linens,196,5.67,Supplier_C,2023-11-25
+ITM0999,Towel,Electronics,326,46.29,Supplier_B,2021-02-12
+ITM1000,Towel,Linens,293,92.33,Supplier_D,2021-07-16

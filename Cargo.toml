@@ -7,7 +7,7 @@ edition = "2021"
 bucket_sort = { path = "src/bucket_sort" }
 radix_sort = { path = "src/radix_sort" }
 criterion = "0.3"
-rand = "0.8"
+csv = "1.1"
 
 [workspace]
 members = [
